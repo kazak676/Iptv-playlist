@@ -1,38 +1,94 @@
 #EXTM3U
-#PLAYLIST: Советские фильмы - только рабочие потоки
+#PLAYLIST: Советские фильмы и классика СССР - расширенный
 
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" group-title="СССР Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="sovkino2" tvg-name="Советское кино 2" group-title="СССР Кино",Советское кино (2)
+http://91.207.115.228:9001/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="sovkino3" tvg-name="Советское кино 3" group-title="СССР Кино",Советское кино (3)
+https://s12.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="domkino" tvg-name="Дом Кино" group-title="СССР Кино",Дом Кино
+http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-id="domkino2" tvg-name="Дом Кино 2" group-title="СССР Кино",Дом Кино (2)
+http://185.112.140.28/DomKino/index.m3u8
+#EXTINF:-1 tvg-id="domkino3" tvg-name="Дом Кино 3" group-title="СССР Кино",Дом Кино (3)
+https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino4" tvg-name="Дом Кино 4" group-title="СССР Кино",Дом Кино (4)
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="domkino5" tvg-name="Дом Кино 5" group-title="СССР Кино",Дом Кино (5)
 https://stream8.cinerama.uz/1054/index.m3u8
 #EXTINF:-1 tvg-id="domkino-int" tvg-name="Дом Кино International" group-title="СССР Кино",Дом Кино International
 http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" group-title="СССР Кино",Дом Кино Премиум HD
+http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium2" tvg-name="Дом Кино Премиум 2" group-title="СССР Кино",Дом Кино Премиум (2)
 http://stream.mcquack.net/108/index.m3u8
+
+#EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы HD" group-title="СССР Кино",День Победы HD
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 tvg-id="denpobedy2" tvg-name="День Победы 2" group-title="СССР Кино",День Победы (2)
+http://78.140.39.3/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм Золотая коллекция" group-title="СССР Кино",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm2" tvg-name="Мосфильм 2" group-title="СССР Кино",Мосфильм. Золотая коллекция (2)
+http://178.212.236.2:80/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm3" tvg-name="Мосфильм 3" group-title="СССР Кино",Мосфильм. Золотая коллекция (3)
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm4" tvg-name="Мосфильм 4" group-title="СССР Кино",Мосфильм. Золотая коллекция (4)
 http://185.121.1.163:8083/Mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000ru" tvg-name="TV1000 Русское кино" group-title="СССР Кино",TV 1000 Русское кино / Viju
+http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000ru2" tvg-name="Viju TV1000" group-title="СССР Кино",Viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000ru3" tvg-name="Viju TV1000 2" group-title="СССР Кино",Viju TV1000 (2)
 https://stream8.cinerama.uz/1058/index.m3u8
+
+#EXTINF:-1 tvg-id="retro" tvg-name="Ретро" group-title="СССР Кино",Ретро
+https://s4.idata.uz/retro/index.m3u8
 #EXTINF:-1 tvg-id="retro2" tvg-name="Ретро 2" group-title="СССР Кино",Ретро (2)
 http://176.118.197.101/Retro/index.m3u8
+
+#EXTINF:-1 tvg-id="rodnoe" tvg-name="Родное кино" group-title="СССР Кино",Родное кино
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" group-title="СССР Кино",Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="kinokomediya2" tvg-name="Кинокомедия HD" group-title="СССР Кино",Кинокомедия HD
+http://193.33.88.172/komediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomediya3" tvg-name="Кинокомедия 3" group-title="СССР Кино",Кинокомедия (3)
 https://stream8.cinerama.uz/1232/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya4" tvg-name="Кинокомедия 4" group-title="СССР Кино",Кинокомедия (4)
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya5" tvg-name="Кинокомедия 5" group-title="СССР Кино",Кинокомедия (5)
 http://stream.mcquack.net/265/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-illuzion" tvg-name="Русский Иллюзион" group-title="СССР Кино",Русский Иллюзион
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="russkiy-illuzion2" tvg-name="Русский Иллюзион 2" group-title="СССР Кино",Русский Иллюзион (2)
+http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 tvg-id="kinosezon" tvg-name="КиноСезон" group-title="СССР Кино",КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" group-title="СССР Кино",Победа
+http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
 #EXTINF:-1 tvg-id="pobeda2" tvg-name="Победа 2" group-title="СССР Кино",Победа (2)
 https://streaming.thestream.cyou/live/43.m3u8
+
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" group-title="СССР Кино",BCU СССР HD
+http://217.107.34.114:8006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="Иллюзион+" group-title="СССР Кино",Иллюзион+
+http://iptv.mega.net.ru:8888/Illuzion_/index.m3u8
+
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Русская комедия" group-title="СССР Кино",Русская комедия
 http://192.162.64.99:5100/play/a02k/index.m3u8
+
+# === Добавлено из предоставленного плейлиста ===
+
 #EXTINF:-1 group-title="СССР Кино",Yosso TV Советские Фильмы
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/14175/index.m3u8
 #EXTINF:-1 group-title="СССР Кино",TOP USSR HD
@@ -65,8 +121,13 @@ http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/547/index.m3u8
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/11118/index.m3u8
 #EXTINF:-1 group-title="СССР Кино",VF Ужасы VHS
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/10010/index.m3u8
+
+# === Добавлено из второго плейлиста ===
+
 #EXTINF:-1 group-title="СССР Кино",BOX СССР 4K
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/31625/index.m3u8
+#EXTINF:-1 group-title="СССР Кино",Мосфильм. Золотая коллекция +4 HD
+http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/17022/index.m3u8
 #EXTINF:-1 group-title="СССР Кино",Советская киноклассика HD (2)
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/2146/index.m3u8
 #EXTINF:-1 group-title="СССР Кино",VHS-ка HD
