@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1  group-title="Кино"  tvg-id="box-sssr-4k"   tvg-rec="0",BOX СССР 4K
+#EXTINF:-1   tvg-id="box-sssr-4k"   tvg-rec="0",BOX СССР 4K
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31625/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="veles-sssr"   tvg-rec="0",VeleS СССР
+#EXTINF:-1   tvg-id="veles-sssr"   tvg-rec="0",VeleS СССР
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31643/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="sov-kinklass-hd"   tvg-rec="3",Советская киноклассика HD
+#EXTINF:-1   tvg-id="sov-kinklass-hd"   tvg-rec="3",Советская киноклассика HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2146/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="vf-filmy-sssr"   tvg-rec="7",VF Фильмы СССР
+#EXTINF:-1   tvg-id="vf-filmy-sssr"   tvg-rec="7",VF Фильмы СССР
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10085/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="vf-multfilmy-sssr"   tvg-rec="7",VF Мультфильмы СССР
+#EXTINF:-1   tvg-id="vf-multfilmy-sssr"   tvg-rec="7",VF Мультфильмы СССР
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10086/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="bcu-sssr"   tvg-rec="7",BCU СССР HD
+#EXTINF:-1   tvg-id="bcu-sssr"   tvg-rec="7",BCU СССР HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11026/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="7",StrahTV СССР
+#EXTINF:-1    tvg-rec="7",StrahTV СССР
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11061/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="7",PG USSR HD
+#EXTINF:-1    tvg-rec="7",PG USSR HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11102/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="0",TOP USSR HD
+#EXTINF:-1    tvg-rec="0",TOP USSR HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13005/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-ussr45"   tvg-rec="0",MM USSR 1941-1945 HD
+#EXTINF:-1   tvg-id="mm-ussr45"   tvg-rec="0",MM USSR 1941-1945 HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13018/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-ussrkomedia"   tvg-rec="0",MM USSR Комедия HD
+#EXTINF:-1   tvg-id="mm-ussrkomedia"   tvg-rec="0",MM USSR Комедия HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13019/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-ussrmultfilm"   tvg-rec="0",MM USSR Мультфильм HD
+#EXTINF:-1   tvg-id="mm-ussrmultfilm"   tvg-rec="0",MM USSR Мультфильм HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13020/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-ussrskazki"   tvg-rec="0",MM USSR Сказки HD
+#EXTINF:-1   tvg-id="mm-ussrskazki"   tvg-rec="0",MM USSR Сказки HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13021/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="minimax-ussr-fantastika"   tvg-rec="0",MM USSR Драма HD
+#EXTINF:-1   tvg-id="minimax-ussr-fantastika"   tvg-rec="0",MM USSR Драма HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13022/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-ussrprikluchenia"   tvg-rec="0",MM USSR Приключения HD
+#EXTINF:-1   tvg-id="mm-ussrprikluchenia"   tvg-rec="0",MM USSR Приключения HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13060/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mm-usssrdetektiv"   tvg-rec="0",MM USSR Детектив HD
+#EXTINF:-1   tvg-id="mm-usssrdetektiv"   tvg-rec="0",MM USSR Детектив HD
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13096/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="yosso-sovfilm"   tvg-rec="0",Yosso TV Советские Фильмы
+#EXTINF:-1   tvg-id="yosso-sovfilm"   tvg-rec="0",Yosso TV Советские Фильмы
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14175/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="0",Yosso TV Советские Фильмы 4K
+#EXTINF:-1    tvg-rec="0",Yosso TV Советские Фильмы 4K
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19435/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="0",Fresh Soviet
+#EXTINF:-1    tvg-rec="0",Fresh Soviet
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19301/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="0",Venera.TV Советская классика 4K
+#EXTINF:-1    tvg-rec="0",Venera.TV Советская классика 4K
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30151/index.m3u8
