@@ -1,167 +1,192 @@
-#EXTM3U
-#EXTINF:-1,1 BOX СССР 4K [1]
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+# USSR / Soviet Cinema playlist | EPG: iptvx.one | updated 13.11.2026
+
+#EXTINF:-1 tvg-id="" tvg-name="BOX СССР 4K" group-title="СССР Кино",BOX СССР 4K [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31625/index.m3u8
-#EXTINF:-1,2 BOX СССР 4K [2]
+#EXTINF:-1 tvg-id="" tvg-name="BOX СССР 4K" group-title="СССР Кино",BOX СССР 4K [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/31625/index.m3u8
-#EXTINF:-1,3 BOX СССР 4K [3]
+#EXTINF:-1 tvg-id="" tvg-name="BOX СССР 4K" group-title="СССР Кино",BOX СССР 4K [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31625/index.m3u8
-#EXTINF:-1,4 VeleS СССР [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="VeleS СССР" group-title="СССР Кино",VeleS СССР [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/31643/index.m3u8
-#EXTINF:-1,5 VeleS СССР [2]
+#EXTINF:-1 tvg-id="" tvg-name="VeleS СССР" group-title="СССР Кино",VeleS СССР [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/31643/index.m3u8
-#EXTINF:-1,6 VeleS СССР [3]
+#EXTINF:-1 tvg-id="" tvg-name="VeleS СССР" group-title="СССР Кино",VeleS СССР [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31643/index.m3u8
-#EXTINF:-1,7 Советская киноклассика HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="Советская киноклассика HD" group-title="СССР Кино",Советская киноклассика HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/2146/index.m3u8
-#EXTINF:-1,8 Советская киноклассика HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="Советская киноклассика HD" group-title="СССР Кино",Советская киноклассика HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/2146/index.m3u8
-#EXTINF:-1,9 Советская киноклассика HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="Советская киноклассика HD" group-title="СССР Кино",Советская киноклассика HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/2146/index.m3u8
-#EXTINF:-1,10 Советская киноклассика HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="Советская киноклассика HD" group-title="СССР Кино",Советская киноклассика HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/2146/index.m3u8
-#EXTINF:-1,11 VF Фильмы СССР [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="VF Фильмы СССР" group-title="СССР Кино",VF Фильмы СССР [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10085/index.m3u8
-#EXTINF:-1,12 VF Фильмы СССР [2]
+#EXTINF:-1 tvg-id="" tvg-name="VF Фильмы СССР" group-title="СССР Кино",VF Фильмы СССР [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/10085/index.m3u8
-#EXTINF:-1,13 VF Фильмы СССР [3]
+#EXTINF:-1 tvg-id="" tvg-name="VF Фильмы СССР" group-title="СССР Кино",VF Фильмы СССР [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/10085/index.m3u8
-#EXTINF:-1,14 VF Мультфильмы СССР [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="VF Мультфильмы СССР" group-title="СССР Мультфильмы",VF Мультфильмы СССР [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10086/index.m3u8
-#EXTINF:-1,15 VF Мультфильмы СССР [2]
+#EXTINF:-1 tvg-id="" tvg-name="VF Мультфильмы СССР" group-title="СССР Мультфильмы",VF Мультфильмы СССР [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/10086/index.m3u8
-#EXTINF:-1,16 VF Мультфильмы СССР [3]
+#EXTINF:-1 tvg-id="" tvg-name="VF Мультфильмы СССР" group-title="СССР Мультфильмы",VF Мультфильмы СССР [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/10086/index.m3u8
-#EXTINF:-1,17 VF Мультфильмы СССР [4]
+#EXTINF:-1 tvg-id="" tvg-name="VF Мультфильмы СССР" group-title="СССР Мультфильмы",VF Мультфильмы СССР [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/10086/index.m3u8
-#EXTINF:-1,18 BCU СССР HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="BCU СССР HD" group-title="СССР Кино",BCU СССР HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11026/index.m3u8
-#EXTINF:-1,19 BCU СССР HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="BCU СССР HD" group-title="СССР Кино",BCU СССР HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/11026/index.m3u8
-#EXTINF:-1,20 BCU СССР HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="BCU СССР HD" group-title="СССР Кино",BCU СССР HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/11026/index.m3u8
-#EXTINF:-1,21 BCU СССР HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="BCU СССР HD" group-title="СССР Кино",BCU СССР HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/11026/index.m3u8
-#EXTINF:-1,22 StrahTV СССР [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="StrahTV СССР" group-title="СССР Кино",StrahTV СССР [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11061/index.m3u8
-#EXTINF:-1,23 StrahTV СССР [2]
+#EXTINF:-1 tvg-id="" tvg-name="StrahTV СССР" group-title="СССР Кино",StrahTV СССР [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/11061/index.m3u8
-#EXTINF:-1,24 StrahTV СССР [3]
+#EXTINF:-1 tvg-id="" tvg-name="StrahTV СССР" group-title="СССР Кино",StrahTV СССР [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/11061/index.m3u8
-#EXTINF:-1,25 PG USSR HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="PG USSR HD" group-title="СССР Кино",PG USSR HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11102/index.m3u8
-#EXTINF:-1,26 PG USSR HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="PG USSR HD" group-title="СССР Кино",PG USSR HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/11102/index.m3u8
-#EXTINF:-1,27 PG USSR HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="PG USSR HD" group-title="СССР Кино",PG USSR HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/11102/index.m3u8
-#EXTINF:-1,28 TOP USSR HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP USSR HD" group-title="СССР Кино",TOP USSR HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13005/index.m3u8
-#EXTINF:-1,29 TOP USSR HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="TOP USSR HD" group-title="СССР Кино",TOP USSR HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13005/index.m3u8
-#EXTINF:-1,30 TOP USSR HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="TOP USSR HD" group-title="СССР Кино",TOP USSR HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13005/index.m3u8
-#EXTINF:-1,31 TOP USSR HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="TOP USSR HD" group-title="СССР Кино",TOP USSR HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/13005/index.m3u8
-#EXTINF:-1,32 MM USSR 1941-1945 HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR 1941-1945 HD" group-title="СССР Кино",MM USSR 1941-1945 HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13018/index.m3u8
-#EXTINF:-1,33 MM USSR 1941-1945 HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR 1941-1945 HD" group-title="СССР Кино",MM USSR 1941-1945 HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13018/index.m3u8
-#EXTINF:-1,34 MM USSR 1941-1945 HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR 1941-1945 HD" group-title="СССР Кино",MM USSR 1941-1945 HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13018/index.m3u8
-#EXTINF:-1,35 MM USSR Комедия HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Комедия HD" group-title="СССР Кино",MM USSR Комедия HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13019/index.m3u8
-#EXTINF:-1,36 MM USSR Комедия HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Комедия HD" group-title="СССР Кино",MM USSR Комедия HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13019/index.m3u8
-#EXTINF:-1,37 MM USSR Комедия HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Комедия HD" group-title="СССР Кино",MM USSR Комедия HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13019/index.m3u8
-#EXTINF:-1,38 MM USSR Мультфильм HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Мультфильм HD" group-title="СССР Мультфильмы",MM USSR Мультфильм HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13020/index.m3u8
-#EXTINF:-1,39 MM USSR Мультфильм HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Мультфильм HD" group-title="СССР Мультфильмы",MM USSR Мультфильм HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13020/index.m3u8
-#EXTINF:-1,40 MM USSR Мультфильм HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Мультфильм HD" group-title="СССР Мультфильмы",MM USSR Мультфильм HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13020/index.m3u8
-#EXTINF:-1,41 MM USSR Мультфильм HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Мультфильм HD" group-title="СССР Мультфильмы",MM USSR Мультфильм HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/13020/index.m3u8
-#EXTINF:-1,42 MM USSR Сказки HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Сказки HD" group-title="СССР Мультфильмы",MM USSR Сказки HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13021/index.m3u8
-#EXTINF:-1,43 MM USSR Сказки HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Сказки HD" group-title="СССР Мультфильмы",MM USSR Сказки HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13021/index.m3u8
-#EXTINF:-1,44 MM USSR Сказки HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Сказки HD" group-title="СССР Мультфильмы",MM USSR Сказки HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13021/index.m3u8
-#EXTINF:-1,45 MM USSR Сказки HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Сказки HD" group-title="СССР Мультфильмы",MM USSR Сказки HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/13021/index.m3u8
-#EXTINF:-1,46 MM USSR Драма HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Драма HD" group-title="СССР Кино",MM USSR Драма HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13022/index.m3u8
-#EXTINF:-1,47 MM USSR Драма HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Драма HD" group-title="СССР Кино",MM USSR Драма HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13022/index.m3u8
-#EXTINF:-1,48 MM USSR Драма HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Драма HD" group-title="СССР Кино",MM USSR Драма HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13022/index.m3u8
-#EXTINF:-1,49 MM USSR Драма HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Драма HD" group-title="СССР Кино",MM USSR Драма HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/13022/index.m3u8
-#EXTINF:-1,50 MM USSR Приключения HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Приключения HD" group-title="СССР Кино",MM USSR Приключения HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13060/index.m3u8
-#EXTINF:-1,51 MM USSR Приключения HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Приключения HD" group-title="СССР Кино",MM USSR Приключения HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13060/index.m3u8
-#EXTINF:-1,52 MM USSR Приключения HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Приключения HD" group-title="СССР Кино",MM USSR Приключения HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13060/index.m3u8
-#EXTINF:-1,53 MM USSR Приключения HD [4]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Приключения HD" group-title="СССР Кино",MM USSR Приключения HD [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/13060/index.m3u8
-#EXTINF:-1,54 MM USSR Детектив HD [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Детектив HD" group-title="СССР Кино",MM USSR Детектив HD [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/13096/index.m3u8
-#EXTINF:-1,55 MM USSR Детектив HD [2]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Детектив HD" group-title="СССР Кино",MM USSR Детектив HD [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/13096/index.m3u8
-#EXTINF:-1,56 MM USSR Детектив HD [3]
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Детектив HD" group-title="СССР Кино",MM USSR Детектив HD [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/13096/index.m3u8
-#EXTINF:-1,57 Yosso TV Советские Фильмы [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы" group-title="СССР Кино",Yosso TV Советские Фильмы [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/14175/index.m3u8
-#EXTINF:-1,58 Yosso TV Советские Фильмы [2]
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы" group-title="СССР Кино",Yosso TV Советские Фильмы [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/14175/index.m3u8
-#EXTINF:-1,59 Yosso TV Советские Фильмы [3]
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы" group-title="СССР Кино",Yosso TV Советские Фильмы [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/14175/index.m3u8
-#EXTINF:-1,60 Yosso TV Советские Фильмы [4]
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы" group-title="СССР Кино",Yosso TV Советские Фильмы [4]
 http://2dsftzpf.virelloso.top/iptv/53FCKXS8653UUK/14175/index.m3u8
-#EXTINF:-1,61 Yosso TV Советские Фильмы 4K [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы 4K" group-title="СССР Кино",Yosso TV Советские Фильмы 4K [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19435/index.m3u8
-#EXTINF:-1,62 Yosso TV Советские Фильмы 4K [2]
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы 4K" group-title="СССР Кино",Yosso TV Советские Фильмы 4K [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/19435/index.m3u8
-#EXTINF:-1,63 Yosso TV Советские Фильмы 4K [3]
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы 4K" group-title="СССР Кино",Yosso TV Советские Фильмы 4K [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19435/index.m3u8
-#EXTINF:-1,64 Fresh Soviet [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Soviet" group-title="СССР Кино",Fresh Soviet [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/19301/index.m3u8
-#EXTINF:-1,65 Fresh Soviet [2]
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Soviet" group-title="СССР Кино",Fresh Soviet [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/19301/index.m3u8
-#EXTINF:-1,66 Fresh Soviet [3]
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Soviet" group-title="СССР Кино",Fresh Soviet [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19301/index.m3u8
-#EXTINF:-1,67 Venera.TV Советская классика 4K [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="Venera.TV Советская классика 4K" group-title="СССР Кино",Venera.TV Советская классика 4K [1]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/30151/index.m3u8
-#EXTINF:-1,68 Venera.TV Советская классика 4K [2]
+#EXTINF:-1 tvg-id="" tvg-name="Venera.TV Советская классика 4K" group-title="СССР Кино",Venera.TV Советская классика 4K [2]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/30151/index.m3u8
-#EXTINF:-1,69 Venera.TV Советская классика 4K [3]
+#EXTINF:-1 tvg-id="" tvg-name="Venera.TV Советская классика 4K" group-title="СССР Кино",Venera.TV Советская классика 4K [3]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/30151/index.m3u8
 
-# === Added from uplink 13.11.2026 ===
-#EXTINF:-1,70 Ностальгия [1]
+# === Classic / Nostalgia channels ===
+#EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" group-title="Ностальгия",Ностальгия [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/102/index.m3u8
-#EXTINF:-1,71 Ностальгия [2]
+#EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия" group-title="Ностальгия",Ностальгия [2]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/102/index.m3u8
-#EXTINF:-1,72 Ностальгия orig [1]
+#EXTINF:-1 tvg-id="nostalgia" tvg-name="Ностальгия orig" group-title="Ностальгия",Ностальгия orig [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/9106/index.m3u8
-#EXTINF:-1,73 Мосфильм. Золотая коллекция [1]
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" group-title="Мосфильм",Мосфильм. Золотая коллекция [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/6392/index.m3u8
-#EXTINF:-1,74 Мосфильм. Золотая коллекция HD [1]
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция HD" group-title="Мосфильм",Мосфильм. Золотая коллекция HD [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/7347/index.m3u8
-#EXTINF:-1,75 Мосфильм. Золотая коллекция +4 HD [1]
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция +4 HD" group-title="Мосфильм",Мосфильм. Золотая коллекция +4 HD [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/17022/index.m3u8
-#EXTINF:-1,76 Мосфильм. Золотая коллекция orig [1]
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция orig" group-title="Мосфильм",Мосфильм. Золотая коллекция orig [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/9156/index.m3u8
-#EXTINF:-1,77 VF Мосфильм [1]
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="VF Мосфильм" group-title="Мосфильм",VF Мосфильм [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/10084/index.m3u8
-#EXTINF:-1,78 VF Мосфильм [2]
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="VF Мосфильм" group-title="Мосфильм",VF Мосфильм [2]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/10084/index.m3u8
-#EXTINF:-1,79 VF Ленфильм [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="VF Ленфильм" group-title="Киностудии",VF Ленфильм [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/18121/index.m3u8
-#EXTINF:-1,80 VF Ленфильм [2]
+#EXTINF:-1 tvg-id="" tvg-name="VF Ленфильм" group-title="Киностудии",VF Ленфильм [2]
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18121/index.m3u8
-#EXTINF:-1,81 VF Одесская киностудия [1]
+
+#EXTINF:-1 tvg-id="" tvg-name="VF Одесская киностудия" group-title="Киностудии",VF Одесская киностудия [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/18120/index.m3u8
-#EXTINF:-1,82 VF Киностудия им. Горького [1]
+#EXTINF:-1 tvg-id="" tvg-name="VF Киностудия им. Горького" group-title="Киностудии",VF Киностудия им. Горького [1]
 http://rpbdhf4q.zyntras.top/iptv/RSMK3M249QP2BL/18122/index.m3u8
