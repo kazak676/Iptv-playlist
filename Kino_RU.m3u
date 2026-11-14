@@ -1,0 +1,139 @@
+#EXTM3U
+# Русскоязычные кино-каналы | 14.11.2026 | очищено от дублей
+# Каналов: 69
+# Источники: ngrch, iptv-org RU, kino-plus, dearbulut
+
+#EXTINF:-1 group-title="Кино",Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Кино",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+https://stream8.cinerama.uz/1232/index.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000
+https://stream8.cinerama.uz/1058/index.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000 Action
+https://stream8.cinerama.uz/1225/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино
+https://stream8.cinerama.uz/1237/index.m3u8
+#EXTINF:-1 group-title="Кино",.black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Кино",.Red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+https://stream8.cinerama.uz/1233/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья
+https://stream8.cinerama.uz/1234/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Кино",КиноМеню
+https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1 group-title="Кино",Родное кино
+https://stream8.cinerama.uz/1052/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+https://stream8.cinerama.uz/1051/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопоказ
+https://stream8.cinerama.uz/1057/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино",Hollywood
+https://stream8.cinerama.uz/1443/index.m3u8
+#EXTINF:-1 group-title="Кино",Индийское кино
+https://stream8.cinerama.uz/1060/index.m3u8
+#EXTINF:-1 group-title="Кино",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="Кино",Хит
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood
+https://stream8.cinerama.uz/1444/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 group-title="Кино",Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Киносерия
+https://stream8.cinerama.uz/1235/index.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит
+https://cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Blokbaster HD
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 group-title="Кино",Illusion+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Кино",KinoSat
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="Кино",Kineko
+http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Feniks plus Kino
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="Кино",Dom kino International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино",Киносерия (uplink)
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино",viju+ Comedy HD
+http://185.46.16.239:8000/VIP_Comedy
+#EXTINF:-1 group-title="Кино",viju+ Megahit HD
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 group-title="Кино",viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="Кино",Кино ТВ (viju)
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="Кино",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD (cinerama)
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит (cinerama)
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО (cinerama)
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киносерия (cinerama)
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья (cinerama)
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание (cinerama)
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",КИНОПОКАЗ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",BIZ Cinema
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Arsenal
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",STAR CINEMA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="Кино",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
