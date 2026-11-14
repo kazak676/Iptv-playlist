@@ -1,6 +1,6 @@
 #EXTM3U
-# Рабочий кино-плейлист | проверено 11.11.2026 Grok
-# Источники: cinerama.uz, uplink, 185.46, 93.170, 176.118, kinowalk и др.
+# Рабочий кино-плейлист | обновлено 14.11.2026 Grok
+# Источники: cinerama, uplink, ngrch, iptv-org, mcquack и др.
 
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
@@ -110,3 +110,71 @@ http://kinowalk.hopto.org/kinomania_stream_live
 http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 group-title="Кинозалы",НОСТАЛЬГИЯ LIVE
 http://kinowalk.hopto.org/nostal77_live
+
+# === Добавлено 14.11.2026 из массового поиска (русские кино) ===
+#EXTINF:-1 group-title="Кино",Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Кино",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Кино",.black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Кино",.Red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Кино",КиноМеню
+https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1 group-title="Кино",Родное кино
+https://stream8.cinerama.uz/1052/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+https://stream8.cinerama.uz/1051/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="Кино",Хит
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood
+https://stream8.cinerama.uz/1444/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 group-title="Кино",Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит
+https://cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Blokbaster HD
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 group-title="Кино",KinoSat
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="Кино",Kineko
+http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Feniks plus Kino
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="Кино",Dom kino International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
