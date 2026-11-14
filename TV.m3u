@@ -1,7 +1,6 @@
 #EXTM3U
-# Рабочий кино-плейлист | обновлено 14.11.2026 (loganettv+ngrch) Grok
-# Источники: cinerama, uplink, ngrch, iptv-org, loganettv movie, mcquack и др.
-# Каналов ~280
+# Рабочий кино-плейлист | очищено от иностранных 14.11.2026 Grok
+# Только русскоязычные кино-каналы
 
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
@@ -23,22 +22,10 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",КИНОПОКАЗ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Техно 24
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Hollywood
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Индийское Кино
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",BIZ Cinema
-https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Kinoteatr
-https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Arsenal
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",312 Kino
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
@@ -82,20 +69,12 @@ http://85.117.61.84/amedia1/index.m3u8
 http://85.117.61.84/amedia2/index.m3u8
 #EXTINF:-1 group-title="Другие",cinema
 http://85.117.61.84/cinema/index.m3u8
-#EXTINF:-1 group-title="Другие",mirseriala
-http://85.117.61.84/mirseriala/index.m3u8
-#EXTINF:-1 group-title="Другие",black
-http://85.117.61.84/black/index.m3u8
-#EXTINF:-1 group-title="Другие",red
-http://85.117.37.43/red/index.m3u8
 #EXTINF:-1 group-title="Другие",Иллюзион+ (alt)
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Другие",Еврокино (alt)
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Другие",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Другие",STAR CINEMA HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Другие",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 #EXTINF:-1 group-title="Другие",КИНОСАТ
@@ -112,47 +91,7 @@ http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 group-title="Кинозалы",НОСТАЛЬГИЯ LIVE
 http://kinowalk.hopto.org/nostal77_live
 
-# === Добавлено 14.11.2026 из loganettv movie + ngrch ===
-#EXTINF:-1 group-title="Кино",.Black
-http://46.32.176.50/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="Кино",.Black HD
-http://stream.mcquack.net/283/index.m3u8
-#EXTINF:-1 group-title="Кино",.Red
-http://176.100.46.245:90/red/index.m3u8
-#EXTINF:-1 group-title="Кино",.Red HD
-http://89.33.29.115:8080/SET/index.m3u8
-#EXTINF:-1 group-title="Кино",.Sci-Fi
-http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 2
-http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Hit
-http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Hit HD
-http://194.152.35.17/amedia-hit/index.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium HD
-https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино",Bollywood
-https://xykt-gzip.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 group-title="Кино",Bolt
-http://185.195.184.30:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="Кино",Bolt HD
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-http://194.152.35.17/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema HD
-http://195.64.140.147:10055/55
-#EXTINF:-1 group-title="Кино",Epic Drama
-http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 group-title="Кино",FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",FAN HD
-http://stream.mcquack.net/420/index.m3u8
-#EXTINF:-1 group-title="Кино",FX HD
-http://89.33.29.115:8080/FOX_HD/tracks-v1a1/mono.m3u8
+# === Русские из loganettv + ngrch ===
 #EXTINF:-1 group-title="Кино",Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа
@@ -161,24 +100,16 @@ https://streaming.thestream.cyou/live/43.m3u8
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-https://stream8.cinerama.uz/1232/index.m3u8
-#EXTINF:-1 group-title="Кино",Viju TV1000
-https://stream8.cinerama.uz/1058/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Кино",Viju TV1000 Action
-https://stream8.cinerama.uz/1225/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-https://stream8.cinerama.uz/1237/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино
+https://stream8.cinerama.uz/1237/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Megahit
@@ -187,3 +118,15 @@ http://stream.mcquack.net/200/index.m3u8
 https://stream8.cinerama.uz/1061/index.m3u8
 #EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="Кино",.Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="Кино",.Red
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://176.118.197.101/Cinema/index.m3u8
