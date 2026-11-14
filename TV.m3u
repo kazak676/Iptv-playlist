@@ -1,6 +1,6 @@
 #EXTM3U
-# Рабочий кино-плейлист | обновлено 14.11.2026 Grok
-# Источники: cinerama, uplink, ngrch, iptv-org, mcquack и др.
+# Рабочий кино-плейлист | обновлено 14.11.2026 (loganettv+ngrch) Grok
+# Источники: cinerama, uplink, ngrch, iptv-org, loganettv movie, mcquack и др.
 
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
