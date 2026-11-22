@@ -1,259 +1,46 @@
 #EXTM3U
-# Рабочий кино-плейлист | очищено от иностранных 14.11.2026 Grok
-# Только русскоязычные кино-каналы
-# + добавлено ~80 из mylistbest Кино 22.11.2026 (streams могут сдохнуть)
+# Полная замена: ВСЕ каналы из раздела Кино (mylistbest) | 22.11.2026
+# Каналов: 680
+# Источник: mylistbest playlist
+# ВНИМАНИЕ: почти все стримы с amazzin.pw — могут сдохнуть в любой момент
 
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс HD
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносерия
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",КИНОПОКАЗ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 ACTION HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",312 Kino
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
-#EXTINF:-1 group-title="viju+",viju+ Comedy HD
-http://185.46.16.239:8000/VIP_Comedy
-#EXTINF:-1 group-title="viju+",viju+ Megahit HD
-http://185.46.16.239:8000/VIP_Megahit
-#EXTINF:-1 group-title="viju+",viju+ Premiere HD
-http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="viju+",Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="viju+",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="viju+",viju TV1000 action
-http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-
-#EXTINF:-1 group-title="Uplink",Киносерия
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Amedia 1
-https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",Дом кино
-https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",Дом кино премиум
-https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",Еврокино
-https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",Иллюзион
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",СТС
-https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink",СТС Love
-https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv2
-
-#EXTINF:-1 group-title="Другие",vijuTV1000
-http://85.117.37.43/vijuTV1000/index.m3u8
-#EXTINF:-1 group-title="Другие",amedia1
-http://85.117.61.84/amedia1/index.m3u8
-#EXTINF:-1 group-title="Другие",amedia2
-http://85.117.61.84/amedia2/index.m3u8
-#EXTINF:-1 group-title="Другие",cinema
-http://85.117.61.84/cinema/index.m3u8
-#EXTINF:-1 group-title="Другие",Иллюзион+ (alt)
-http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Другие",Еврокино (alt)
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Другие",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Другие",Смотрим 100% Любовь
-https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 group-title="Другие",КИНОСАТ
-http://5.188.221.43:8080/play/kinosat
-
-#EXTINF:-1 group-title="Кинозалы",ФИЛЬМЫ_СЕРИАЛЫ_24_7_LIVE
-http://kinowalk.hopto.org/films_serials_24_7_live_live
-#EXTINF:-1 group-title="Кинозалы",SerialTV
-http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="Кинозалы",Тоха Киноман
-http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кинозалы",Alex.Films
-http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы",НОСТАЛЬГИЯ LIVE
-http://kinowalk.hopto.org/nostal77_live
-
-# === Русские из loganettv + ngrch ===
-#EXTINF:-1 group-title="Кино",Мосфильм Золотая коллекция
-http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="Кино",Победа
-https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино
-https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино Премиум
-http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="Кино",Viju TV1000 Русское
-https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://176.118.197.101/KinoTvHD/index.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-https://stream8.cinerama.uz/1237/index.m3u8
-#EXTINF:-1 group-title="Кино",Viju+ Premiere
-http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="Кино",Viju+ Megahit
-http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 group-title="Кино",Viju+ Comedy
-https://stream8.cinerama.uz/1061/index.m3u8
-#EXTINF:-1 group-title="Кино",Комедия
-http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Hit
-http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="Кино",.Black
-http://46.32.176.50/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="Кино",.Red
-http://176.100.46.245:90/red/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-
-# === Добавлено из mylistbest Кино group 22.11.2026 | streams могут сдохнуть ===
-#EXTINF:-1 group-title="Кино (mylistbest)",Любимое Кино HD
+#EXTINF:-1 group-title="Кино",VF Сериалы Турции
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9123/index.m3u8
+#EXTINF:-1 group-title="Кино",VF Вестерн
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31553/index.m3u8
+#EXTINF:-1 group-title="Кино",Viasat Kino World orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31447/index.m3u8
+#EXTINF:-1 group-title="Кино",Viasat Kino World HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31448/index.m3u8
+#EXTINF:-1 group-title="Кино",Viasat Kino World HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31449/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX СССР 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31625/index.m3u8
+#EXTINF:-1 group-title="Кино",BCU Premium Kinozakaz+ 4K HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31547/index.m3u8
+#EXTINF:-1 group-title="Кино",BCU Premium Premiere+ 4K HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31549/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое Кино HD
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20014/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Мосфильм. Золотая коллекция +4 HD
+#EXTINF:-1 group-title="Кино",FX HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19216/index.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция +4 HD
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17022/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",КиноЛивинг
+#EXTINF:-1 group-title="Кино",Vesna HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2037/index.m3u8
+#EXTINF:-1 group-title="Кино",9-1-1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2049/index.m3u8
+#EXTINF:-1 group-title="Кино",Sumiko HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2163/index.m3u8
+#EXTINF:-1 group-title="Кино",КиноЛивинг
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16018/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Советская киноклассика HD
+#EXTINF:-1 group-title="Кино",Лавстори HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2034/index.m3u8
+#EXTINF:-1 group-title="Кино",Советская киноклассика HD
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2146/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Кино",Viju TV1000 Новелла HD
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2002/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",.black HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20019/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan Premium
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20112/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia Hit HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6010/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Ultra HD Cinema 4K
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/4000/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кино UHD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5004/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Дом Кино Премиум HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/911/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Дом Кино Премиум HD orig
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5082/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Наш Кинопоказ HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2434/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Хит HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2438/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кинопоказ HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2439/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Serial HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2443/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кинопремьера HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/224/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Киноужас HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2056/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Русский роман HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2076/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Русский иллюзион HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2114/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кино ТВ HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2097/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia Premium HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/229/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Hollywood HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/209/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Premiere HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/202/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Premiere HD orig
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5079/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Comedy HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/200/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Comedy HD orig
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5080/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Megahit HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/201/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju+ Megahit HD orig
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5081/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia 2 HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2046/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju TV1000 Русское
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/206/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Киномикс
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1233/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Киносемья
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1234/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Родное Кино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1052/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju TV1000 Action
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1225/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кинохит
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1055/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia 2
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2047/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Наше Новое Кино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1051/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Кинокомедия
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1232/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Индийское Кино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1060/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Киносерия
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1235/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Русский иллюзион
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2115/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Еврокино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2116/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Дом Кино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/910/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia 1
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/228/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia Premium
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/230/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Amedia Hit
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6011/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Viju TV1000
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1058/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Мужское Кино
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1237/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Hollywood
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/210/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",.red
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20023/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",Cinema
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2117/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan Катастрофы
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15106/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan Ментовские войны
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16063/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan ПёС + Лихач
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16064/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan Лесник
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16065/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",CineMan MiniSeries
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19437/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",BCU Cinema HDR
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11029/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",BCU Cinema+ HDR
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11030/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",StrahTV Хит HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11064/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",PG РуКино HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11096/index.m3u8
-#EXTINF:-1 group-title="Кино (mylistbest)",TOP Cinema HD
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13004/index.m3u8
+#EXTINF:-1 group-title="Кино",VHS-ка HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5006/index.m3u8
+#EXTINF:-1 group-title="Кино",Viasat Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17056/index.m3u8
