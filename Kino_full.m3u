@@ -1,0 +1,10 @@
+#EXTM3U
+# Полная замена: ВСЕ каналы из раздела Кино (mylistbest) | 22.11.2026
+# Каналов: 680
+# Источник: mylistbest playlist
+# ВНИМАНИЕ: почти все стримы с amazzin.pw — могут сдохнуть в любой момент
+
+#EXTINF:-1 group-title="Кино",VF Сериалы Турции
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9123/index.m3u8
+#EXTINF:-1 group-title="Кино",VF Вестерн
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31553/index.m3u8
