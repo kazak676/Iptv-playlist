@@ -20,3 +20,1349 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31449/index.m3u8
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31625/index.m3u8
 #EXTINF:-1 tvg-id="bcupremiumkinozakazplusr" tvg-name="BCU Premium Kinozakaz+R" tvg-logo="" group-title="Кино",BCU Premium Kinozakaz+ 4K HDR
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31547/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiumpremiereplusr" tvg-name="BCU Premium Premiere+R" tvg-logo="" group-title="Кино",BCU Premium Premiere+ 4K HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31549/index.m3u8
+#EXTINF:-1 tvg-id="любимоекино" tvg-name="Любимое Кино" tvg-logo="" group-title="Кино",Любимое Кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20014/index.m3u8
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="" group-title="Кино",FX HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19216/index.m3u8
+#EXTINF:-1 tvg-id="мосфильмзолотаяколлекцияplus4" tvg-name="Мосфильм. Золотая коллекция +4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosfilm_logo.svg/200px-Mosfilm_logo.svg.png" group-title="Кино",Мосфильм. Золотая коллекция +4 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17022/index.m3u8
+#EXTINF:-1 tvg-id="vesna" tvg-name="Vesna" tvg-logo="" group-title="Кино",Vesna HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2037/index.m3u8
+#EXTINF:-1 tvg-id="9-1-1" tvg-name="9-1-1" tvg-logo="" group-title="Кино",9-1-1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2049/index.m3u8
+#EXTINF:-1 tvg-id="sumiko" tvg-name="Sumiko" tvg-logo="" group-title="Кино",Sumiko HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2163/index.m3u8
+#EXTINF:-1 tvg-id="киноливинг" tvg-name="КиноЛивинг" tvg-logo="" group-title="Кино",КиноЛивинг
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16018/index.m3u8
+#EXTINF:-1 tvg-id="лавстори" tvg-name="Лавстори" tvg-logo="" group-title="Кино",Лавстори HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2034/index.m3u8
+#EXTINF:-1 tvg-id="советскаякиноклассика" tvg-name="Советская киноклассика" tvg-logo="" group-title="Кино",Советская киноклассика HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2146/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000новелла" tvg-name="Viju TV1000 Новелла" tvg-logo="" group-title="Кино",Viju TV1000 Новелла HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2002/index.m3u8
+#EXTINF:-1 tvg-id="vhs-ка" tvg-name="VHS-ка" tvg-logo="" group-title="Кино",VHS-ка HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5006/index.m3u8
+#EXTINF:-1 tvg-id="viasatserial" tvg-name="Viasat Serial" tvg-logo="" group-title="Кино",Viasat Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17056/index.m3u8
+#EXTINF:-1 tvg-id="black" tvg-name=".black" tvg-logo="" group-title="Кино",.black HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20019/index.m3u8
+#EXTINF:-1 tvg-id="sci-fi" tvg-name=".sci-fi" tvg-logo="" group-title="Кино",.sci-fi HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20020/index.m3u8
+#EXTINF:-1 tvg-id="scream" tvg-name="Scream" tvg-logo="" group-title="Кино",Scream HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20021/index.m3u8
+#EXTINF:-1 tvg-id="shottv" tvg-name="Shot TV" tvg-logo="" group-title="Кино",Shot TV HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20022/index.m3u8
+#EXTINF:-1 tvg-id="4everdramaua" tvg-name="4ever Drama UA" tvg-logo="" group-title="Кино",4ever Drama HD UA
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17051/index.m3u8
+#EXTINF:-1 tvg-id="nowseries" tvg-name="NOW Series" tvg-logo="" group-title="Кино",NOW Series HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15102/index.m3u8
+#EXTINF:-1 tvg-id="shottv" tvg-name="Shot TV" tvg-logo="" group-title="Кино",Shot TV orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9347/index.m3u8
+#EXTINF:-1 tvg-id="vfсчастливывместе" tvg-name="VF Счастливы Вместе" tvg-logo="" group-title="Кино",VF Счастливы Вместе
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9242/index.m3u8
+#EXTINF:-1 tvg-id="vfбесстыжие" tvg-name="VF Бесстыжие" tvg-logo="" group-title="Кино",VF Бесстыжие
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10075/index.m3u8
+#EXTINF:-1 tvg-id="vfвладимирвысоцкий" tvg-name="VF Владимир Высоцкий" tvg-logo="" group-title="Кино",VF Владимир Высоцкий
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10066/index.m3u8
+#EXTINF:-1 tvg-id="vfдвасполовинойчеловека" tvg-name="VF Два с половиной человека" tvg-logo="" group-title="Кино",VF Два с половиной человека
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10062/index.m3u8
+#EXTINF:-1 tvg-id="vfновогодний" tvg-name="VF Новогодний" tvg-logo="" group-title="Кино",VF Новогодний
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17035/index.m3u8
+#EXTINF:-1 tvg-id="vfёлки" tvg-name="VF Ёлки" tvg-logo="" group-title="Кино",VF Ёлки
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14222/index.m3u8
+#EXTINF:-1 tvg-id="vfnewyear" tvg-name="VF New Year" tvg-logo="" group-title="Кино",VF New Year
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15522/index.m3u8
+#EXTINF:-1 tvg-id="vfсновымгодом!" tvg-name="VF С новым годом!" tvg-logo="" group-title="Кино",VF С новым годом!
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15524/index.m3u8
+#EXTINF:-1 tvg-id="vfгаррипоттер" tvg-name="VF Гарри Поттер" tvg-logo="" group-title="Кино",VF Гарри Поттер
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14230/index.m3u8
+#EXTINF:-1 tvg-id="vfсексвбольшомгороде" tvg-name="VF Секс в большом городе" tvg-logo="" group-title="Кино",VF Секс в большом городе
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14224/index.m3u8
+#EXTINF:-1 tvg-id="vfкарточныйдомик" tvg-name="VF Карточный домик" tvg-logo="" group-title="Кино",VF Карточный домик
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14221/index.m3u8
+#EXTINF:-1 tvg-id="vfdisneymovie" tvg-name="VF Disney Movie" tvg-logo="" group-title="Кино",VF Disney Movie
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15010/index.m3u8
+#EXTINF:-1 tvg-id="vfтеориябольшоговзрыва" tvg-name="VF Теория большого взрыва" tvg-logo="" group-title="Кино",VF Теория большого взрыва
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 tvg-id="cinemanpremium" tvg-name="CineMan Premium" tvg-logo="" group-title="Кино",CineMan Premium
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20112/index.m3u8
+#EXTINF:-1 tvg-id="fxlife" tvg-name="FX Life" tvg-logo="" group-title="Кино",FX Life
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9232/index.m3u8
+#EXTINF:-1 tvg-id="fxlife" tvg-name="FX Life" tvg-logo="" group-title="Кино",FX Life HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14003/index.m3u8
+#EXTINF:-1 tvg-id="mmfamilyguy" tvg-name="MM Family Guy" tvg-logo="" group-title="Кино",MM Family Guy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19414/index.m3u8
+#EXTINF:-1 tvg-id="mmoldschool" tvg-name="MM OldSchool" tvg-logo="" group-title="Кино",MM OldSchool HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19413/index.m3u8
+#EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="" group-title="Кино",FAN HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16021/index.m3u8
+#EXTINF:-1 tvg-id="amediahit" tvg-name="Amedia Hit" tvg-logo="" group-title="Кино",Amedia Hit HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6010/index.m3u8
+#EXTINF:-1 tvg-id="ultracinema" tvg-name="Ultra Cinema" tvg-logo="" group-title="Кино",Ultra HD Cinema 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/4000/index.m3u8
+#EXTINF:-1 tvg-id="кино" tvg-name="Кино" tvg-logo="" group-title="Кино",Кино UHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5004/index.m3u8
+#EXTINF:-1 tvg-id="остросюжетное" tvg-name="Остросюжетное" tvg-logo="" group-title="Кино",Остросюжетное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/904/index.m3u8
+#EXTINF:-1 tvg-id="премиальное" tvg-name="Премиальное" tvg-logo="" group-title="Кино",Премиальное FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2410/index.m3u8
+#EXTINF:-1 tvg-id="домкинопремиум" tvg-name="Дом Кино Премиум" tvg-logo="" group-title="Кино",Дом Кино Премиум HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/911/index.m3u8
+#EXTINF:-1 tvg-id="домкинопремиум" tvg-name="Дом Кино Премиум" tvg-logo="" group-title="Кино",Дом Кино Премиум HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5082/index.m3u8
+#EXTINF:-1 tvg-id="пролюбовь" tvg-name="Про Любовь" tvg-logo="" group-title="Кино",Про Любовь HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2430/index.m3u8
+#EXTINF:-1 tvg-id="нашкинопоказ" tvg-name="Наш Кинопоказ" tvg-logo="" group-title="Кино",Наш Кинопоказ HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2434/index.m3u8
+#EXTINF:-1 tvg-id="блокбастер" tvg-name="Блокбастер" tvg-logo="" group-title="Кино",Блокбастер HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2436/index.m3u8
+#EXTINF:-1 tvg-id="хит" tvg-name="Хит" tvg-logo="" group-title="Кино",Хит HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2438/index.m3u8
+#EXTINF:-1 tvg-id="кинопоказ" tvg-name="Кинопоказ" tvg-logo="" group-title="Кино",Кинопоказ HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2439/index.m3u8
+#EXTINF:-1 tvg-id="нашемужское" tvg-name="Наше Мужское" tvg-logo="" group-title="Кино",Наше Мужское HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2440/index.m3u8
+#EXTINF:-1 tvg-id="камеди" tvg-name="Камеди" tvg-logo="" group-title="Кино",Камеди HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2441/index.m3u8
+#EXTINF:-1 tvg-id="vijuplusserial" tvg-name="Viju+ Serial" tvg-logo="" group-title="Кино",Viju+ Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2443/index.m3u8
+#EXTINF:-1 tvg-id="романтичное" tvg-name="Романтичное" tvg-logo="" group-title="Кино",Романтичное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5053/index.m3u8
+#EXTINF:-1 tvg-id="комедийное" tvg-name="Комедийное" tvg-logo="" group-title="Кино",Комедийное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/912/index.m3u8
+#EXTINF:-1 tvg-id="душевное" tvg-name="Душевное" tvg-logo="" group-title="Кино",Душевное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/914/index.m3u8
+#EXTINF:-1 tvg-id="любимое" tvg-name="Любимое" tvg-logo="" group-title="Кино",Любимое HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/915/index.m3u8
+#EXTINF:-1 tvg-id="любимое" tvg-name="Любимое" tvg-logo="" group-title="Кино",Любимое HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2106/index.m3u8
+#EXTINF:-1 tvg-id="кинопремьера" tvg-name="Кинопремьера" tvg-logo="" group-title="Кино",Кинопремьера HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/224/index.m3u8
+#EXTINF:-1 tvg-id="киноужас" tvg-name="Киноужас" tvg-logo="" group-title="Кино",Киноужас HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2056/index.m3u8
+#EXTINF:-1 tvg-id="русскийроман" tvg-name="Русский роман" tvg-logo="" group-title="Кино",Русский роман HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2076/index.m3u8
+#EXTINF:-1 tvg-id="русскийиллюзион" tvg-name="Русский иллюзион" tvg-logo="" group-title="Кино",Русский иллюзион HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2114/index.m3u8
+#EXTINF:-1 tvg-id="дорама" tvg-name="Дорама" tvg-logo="" group-title="Кино",Дорама HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2131/index.m3u8
+#EXTINF:-1 tvg-id="кинотв" tvg-name="Кино ТВ" tvg-logo="" group-title="Кино",Кино ТВ HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2097/index.m3u8
+#EXTINF:-1 tvg-id="amediapremium" tvg-name="Amedia Premium" tvg-logo="" group-title="Кино",Amedia Premium HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/229/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="" group-title="Кино",Hollywood HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/209/index.m3u8
+#EXTINF:-1 tvg-id="bollywood" tvg-name="BollywooD" tvg-logo="" group-title="Кино",BollywooD HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/239/index.m3u8
+#EXTINF:-1 tvg-id="vijupluspremiere" tvg-name="Viju+ Premiere" tvg-logo="" group-title="Кино",Viju+ Premiere HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/202/index.m3u8
+#EXTINF:-1 tvg-id="vijupluspremiere" tvg-name="Viju+ Premiere" tvg-logo="" group-title="Кино",Viju+ Premiere HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5079/index.m3u8
+#EXTINF:-1 tvg-id="vijupluscomedy" tvg-name="Viju+ Comedy" tvg-logo="" group-title="Кино",Viju+ Comedy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/200/index.m3u8
+#EXTINF:-1 tvg-id="vijupluscomedy" tvg-name="Viju+ Comedy" tvg-logo="" group-title="Кино",Viju+ Comedy HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5080/index.m3u8
+#EXTINF:-1 tvg-id="vijuplusmegahit" tvg-name="Viju+ Megahit" tvg-logo="" group-title="Кино",Viju+ Megahit HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/201/index.m3u8
+#EXTINF:-1 tvg-id="vijuplusmegahit" tvg-name="Viju+ Megahit" tvg-logo="" group-title="Кино",Viju+ Megahit HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5081/index.m3u8
+#EXTINF:-1 tvg-id="viasatepicdrama" tvg-name="Viasat Epic Drama" tvg-logo="" group-title="Кино",Viasat Epic Drama HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1048/index.m3u8
+#EXTINF:-1 tvg-id="деньпобеды" tvg-name="День Победы" tvg-logo="" group-title="Кино",День Победы HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5054/index.m3u8
+#EXTINF:-1 tvg-id="победа" tvg-name="Победа" tvg-logo="" group-title="Кино",Победа HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5052/index.m3u8
+#EXTINF:-1 tvg-id="победа" tvg-name="Победа" tvg-logo="" group-title="Кино",Победа
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2003/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="" group-title="Кино",Amedia 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2046/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000русское" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="Кино",Viju TV1000 Русское
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/101/index.m3u8
+#EXTINF:-1 tvg-id="sci-fi" tvg-name=".sci-fi" tvg-logo="" group-title="Кино",.sci-fi
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/110/index.m3u8
+#EXTINF:-1 tvg-id="киномикс" tvg-name="Киномикс" tvg-logo="" group-title="Кино",Киномикс
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/509/index.m3u8
+#EXTINF:-1 tvg-id="киносемья" tvg-name="Киносемья" tvg-logo="" group-title="Кино",Киносемья
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/125/index.m3u8
+#EXTINF:-1 tvg-id="родноекино" tvg-name="Родное Кино" tvg-logo="" group-title="Кино",Родное Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/126/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000action" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Кино",Viju TV1000 Action
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/131/index.m3u8
+#EXTINF:-1 tvg-id="кинохит" tvg-name="Кинохит" tvg-logo="" group-title="Кино",Кинохит
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/516/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="" group-title="Кино",Amedia 2
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/510/index.m3u8
+#EXTINF:-1 tvg-id="нашеновоекино" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Кино",Наше Новое Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/517/index.m3u8
+#EXTINF:-1 tvg-id="тв21" tvg-name="ТВ 21" tvg-logo="" group-title="Кино",ТВ 21
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/525/index.m3u8
+#EXTINF:-1 tvg-id="кинокомедия" tvg-name="Кинокомедия" tvg-logo="" group-title="Кино",Кинокомедия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/145/index.m3u8
+#EXTINF:-1 tvg-id="индийскоекино" tvg-name="Индийское Кино" tvg-logo="" group-title="Кино",Индийское Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/146/index.m3u8
+#EXTINF:-1 tvg-id="киносерия" tvg-name="Киносерия" tvg-logo="" group-title="Кино",Киносерия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/148/index.m3u8
+#EXTINF:-1 tvg-id="русскийиллюзион" tvg-name="Русский иллюзион" tvg-logo="" group-title="Кино",Русский иллюзион
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/547/index.m3u8
+#EXTINF:-1 tvg-id="еврокино" tvg-name="Еврокино" tvg-logo="" group-title="Кино",Еврокино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/549/index.m3u8
+#EXTINF:-1 tvg-id="кинеко" tvg-name="Кинеко" tvg-logo="" group-title="Кино",Кинеко
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/550/index.m3u8
+#EXTINF:-1 tvg-id="сапфир" tvg-name="Сапфир" tvg-logo="" group-title="Кино",Сапфир
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/553/index.m3u8
+#EXTINF:-1 tvg-id="домкино" tvg-name="Дом Кино" tvg-logo="" group-title="Кино",Дом Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/154/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="" group-title="Кино",Amedia 1
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/554/index.m3u8
+#EXTINF:-1 tvg-id="amediapremium" tvg-name="Amedia Premium" tvg-logo="" group-title="Кино",Amedia Premium
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/555/index.m3u8
+#EXTINF:-1 tvg-id="amediahit" tvg-name="Amedia Hit" tvg-logo="" group-title="Кино",Amedia Hit
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/556/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000" tvg-name="Viju TV1000" tvg-logo="" group-title="Кино",Viju TV1000
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/132/index.m3u8
+#EXTINF:-1 tvg-id="мужскоекино" tvg-name="Мужское Кино" tvg-logo="" group-title="Кино",Мужское Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/164/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="" group-title="Кино",Hollywood
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/557/index.m3u8
+#EXTINF:-1 tvg-id="red" tvg-name=".red" tvg-logo="" group-title="Кино",.red
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/559/index.m3u8
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2" tvg-logo="" group-title="Кино",2x2
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/702/index.m3u8
+#EXTINF:-1 tvg-id="black" tvg-name=".black" tvg-logo="" group-title="Кино",.black
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/708/index.m3u8
+#EXTINF:-1 tvg-id="русскийбестселлер" tvg-name="Русский бестселлер" tvg-logo="" group-title="Кино",Русский бестселлер
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/905/index.m3u8
+#EXTINF:-1 tvg-id="русскийроман" tvg-name="Русский роман" tvg-logo="" group-title="Кино",Русский роман
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/906/index.m3u8
+#EXTINF:-1 tvg-id="русскийдетектив" tvg-name="Русский детектив" tvg-logo="" group-title="Кино",Русский детектив
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/907/index.m3u8
+#EXTINF:-1 tvg-id="любимоекино" tvg-name="Любимое Кино" tvg-logo="" group-title="Кино",Любимое Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/722/index.m3u8
+#EXTINF:-1 tvg-id="киносвидание" tvg-name="Киносвидание" tvg-logo="" group-title="Кино",Киносвидание
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/728/index.m3u8
+#EXTINF:-1 tvg-id="кинотв" tvg-name="Кино ТВ" tvg-logo="" group-title="Кино",Кино ТВ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/732/index.m3u8
+#EXTINF:-1 tvg-id="комедия" tvg-name="Комедия" tvg-logo="" group-title="Кино",Комедия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/733/index.m3u8
+#EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="" group-title="Кино",FAN
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/734/index.m3u8
+#EXTINF:-1 tvg-id="нтвхит" tvg-name="НТВ Хит" tvg-logo="" group-title="Кино",НТВ Хит
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/741/index.m3u8
+#EXTINF:-1 tvg-id="нтвсериал" tvg-name="НТВ Сериал" tvg-logo="" group-title="Кино",НТВ Сериал
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/744/index.m3u8
+#EXTINF:-1 tvg-id="нст" tvg-name="НСТ" tvg-logo="" group-title="Кино",НСТ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/726/index.m3u8
+#EXTINF:-1 tvg-id="индия" tvg-name="Индия" tvg-logo="" group-title="Кино",Индия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/1001/index.m3u8
+#EXTINF:-1 tvg-id="мирсериала" tvg-name="Мир Сериала" tvg-logo="" group-title="Кино",Мир Сериала
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/856/index.m3u8
+#EXTINF:-1 tvg-id="ретро" tvg-name="Ретро" tvg-logo="" group-title="Кино",Ретро
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2018/index.m3u8
+#EXTINF:-1 tvg-id="иллюзионplus" tvg-name="Иллюзион+" tvg-logo="" group-title="Кино",Иллюзион+
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2038/index.m3u8
+#EXTINF:-1 tvg-id="фениксплюскино" tvg-name="Феникс плюс Кино" tvg-logo="" group-title="Кино",Феникс плюс Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2039/index.m3u8
+#EXTINF:-1 tvg-id="red" tvg-name=".red" tvg-logo="" group-title="Кино",.red HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2062/index.m3u8
+#EXTINF:-1 tvg-id="киноман" tvg-name="Киноман" tvg-logo="" group-title="Кино",Киноман
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2121/index.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="" group-title="Кино",Cinema
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/5051/index.m3u8
+#EXTINF:-1 tvg-id="кинозал1(триколор)" tvg-name="Кинозал 1 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 1 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2568/index.m3u8
+#EXTINF:-1 tvg-id="кинозал2(триколор)" tvg-name="Кинозал 2 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 2 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2569/index.m3u8
+#EXTINF:-1 tvg-id="кинозал3(триколор)" tvg-name="Кинозал 3 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 3 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2570/index.m3u8
+#EXTINF:-1 tvg-id="кинозал4(триколор)" tvg-name="Кинозал 4 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 4 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2571/index.m3u8
+#EXTINF:-1 tvg-id="кинозал5(триколор)" tvg-name="Кинозал 5 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 5 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2572/index.m3u8
+#EXTINF:-1 tvg-id="кинозал6(триколор)" tvg-name="Кинозал 6 (Триколор)" tvg-logo="" group-title="Кино",Кинозал 6 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2573/index.m3u8
+#EXTINF:-1 tvg-id="зал36(триколор)" tvg-name="Зал 36 (Триколор)" tvg-logo="" group-title="Кино",Зал 36 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2574/index.m3u8
+#EXTINF:-1 tvg-id="зал35(триколор)" tvg-name="Зал 35 (Триколор)" tvg-logo="" group-title="Кино",Зал 35 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2575/index.m3u8
+#EXTINF:-1 tvg-id="зал31(триколор)" tvg-name="Зал 31 (Триколор)" tvg-logo="" group-title="Кино",Зал 31 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2576/index.m3u8
+#EXTINF:-1 tvg-id="зал13(триколор)" tvg-name="Зал 13 (Триколор)" tvg-logo="" group-title="Кино",Зал 13 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/2579/index.m3u8
+#EXTINF:-1 tvg-id="шокирующее" tvg-name="Шокирующее" tvg-logo="" group-title="Кино",Шокирующее HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6299/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000action" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Кино",Viju TV1000 Action HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6386/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000" tvg-name="Viju TV1000" tvg-logo="" group-title="Кино",Viju TV1000 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6387/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000русское" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="Кино",Viju TV1000 Русское HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6388/index.m3u8
+#EXTINF:-1 tvg-id="сапфир" tvg-name="Сапфир" tvg-logo="" group-title="Кино",Сапфир HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6389/index.m3u8
+#EXTINF:-1 tvg-id="мосфильмзолотаяколлекция" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosfilm_logo.svg/200px-Mosfilm_logo.svg.png" group-title="Кино",Мосфильм. Золотая коллекция
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6392/index.m3u8
+#EXTINF:-1 tvg-id="trash" tvg-name="Trash" tvg-logo="" group-title="Кино",Trash HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/6396/index.m3u8
+#EXTINF:-1 tvg-id="шокирующее" tvg-name="Шокирующее" tvg-logo="" group-title="Кино",Шокирующее HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9004/index.m3u8
+#EXTINF:-1 tvg-id="комедийное" tvg-name="Комедийное" tvg-logo="" group-title="Кино",Комедийное HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9005/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="" group-title="Кино",Hollywood HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9017/index.m3u8
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="" group-title="Кино",FX HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9018/index.m3u8
+#EXTINF:-1 tvg-id="кинопремьера" tvg-name="Кинопремьера" tvg-logo="" group-title="Кино",Кинопремьера HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9020/index.m3u8
+#EXTINF:-1 tvg-id="amediapremium" tvg-name="Amedia Premium" tvg-logo="" group-title="Кино",Amedia Premium HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9022/index.m3u8
+#EXTINF:-1 tvg-id="киноужас" tvg-name="Киноужас" tvg-logo="" group-title="Кино",Киноужас HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9033/index.m3u8
+#EXTINF:-1 tvg-id="red" tvg-name=".red" tvg-logo="" group-title="Кино",.red HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9035/index.m3u8
+#EXTINF:-1 tvg-id="русскийроман" tvg-name="Русский роман" tvg-logo="" group-title="Кино",Русский роман HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9041/index.m3u8
+#EXTINF:-1 tvg-id="остросюжетное" tvg-name="Остросюжетное" tvg-logo="" group-title="Кино",Остросюжетное HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9044/index.m3u8
+#EXTINF:-1 tvg-id="наше" tvg-name="Наше" tvg-logo="" group-title="Кино",Наше HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9046/index.m3u8
+#EXTINF:-1 tvg-id="кинотв" tvg-name="Кино ТВ" tvg-logo="" group-title="Кино",Кино ТВ HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9051/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000action" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Кино",Viju TV1000 Action HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9057/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000" tvg-name="Viju TV1000" tvg-logo="" group-title="Кино",Viju TV1000 HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9058/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000русское" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="Кино",Viju TV1000 Русское HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9059/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="" group-title="Кино",Amedia 1 HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9069/index.m3u8
+#EXTINF:-1 tvg-id="amediahit" tvg-name="Amedia Hit" tvg-logo="" group-title="Кино",Amedia Hit HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9070/index.m3u8
+#EXTINF:-1 tvg-id="еврокино" tvg-name="Еврокино" tvg-logo="" group-title="Кино",Еврокино HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9078/index.m3u8
+#EXTINF:-1 tvg-id="иллюзионplus" tvg-name="Иллюзион+" tvg-logo="" group-title="Кино",Иллюзион+ HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9079/index.m3u8
+#EXTINF:-1 tvg-id="русскийиллюзион" tvg-name="Русский иллюзион" tvg-logo="" group-title="Кино",Русский иллюзион HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9080/index.m3u8
+#EXTINF:-1 tvg-id="нашкинопоказ" tvg-name="Наш Кинопоказ" tvg-logo="" group-title="Кино",Наш Кинопоказ HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9086/index.m3u8
+#EXTINF:-1 tvg-id="блокбастер" tvg-name="Блокбастер" tvg-logo="" group-title="Кино",Блокбастер HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9087/index.m3u8
+#EXTINF:-1 tvg-id="нашемужское" tvg-name="Наше Мужское" tvg-logo="" group-title="Кино",Наше Мужское HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9088/index.m3u8
+#EXTINF:-1 tvg-id="пролюбовь" tvg-name="Про Любовь" tvg-logo="" group-title="Кино",Про Любовь HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9089/index.m3u8
+#EXTINF:-1 tvg-id="хит" tvg-name="Хит" tvg-logo="" group-title="Кино",Хит HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9090/index.m3u8
+#EXTINF:-1 tvg-id="камеди" tvg-name="Камеди" tvg-logo="" group-title="Кино",Камеди HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9091/index.m3u8
+#EXTINF:-1 tvg-id="кинопоказ" tvg-name="Кинопоказ" tvg-logo="" group-title="Кино",Кинопоказ HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9092/index.m3u8
+#EXTINF:-1 tvg-id="sci-fi" tvg-name=".sci-fi" tvg-logo="" group-title="Кино",.sci-fi orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9125/index.m3u8
+#EXTINF:-1 tvg-id="киномикс" tvg-name="Киномикс" tvg-logo="" group-title="Кино",Киномикс orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9126/index.m3u8
+#EXTINF:-1 tvg-id="родноекино" tvg-name="Родное Кино" tvg-logo="" group-title="Кино",Родное Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9127/index.m3u8
+#EXTINF:-1 tvg-id="кинохит" tvg-name="Кинохит" tvg-logo="" group-title="Кино",Кинохит orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9128/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="" group-title="Кино",Amedia 2 orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9129/index.m3u8
+#EXTINF:-1 tvg-id="тв21" tvg-name="ТВ 21" tvg-logo="" group-title="Кино",ТВ 21 orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9130/index.m3u8
+#EXTINF:-1 tvg-id="индийскоекино" tvg-name="Индийское Кино" tvg-logo="" group-title="Кино",Индийское Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9131/index.m3u8
+#EXTINF:-1 tvg-id="киносерия" tvg-name="Киносерия" tvg-logo="" group-title="Кино",Киносерия orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9132/index.m3u8
+#EXTINF:-1 tvg-id="русскийиллюзион" tvg-name="Русский иллюзион" tvg-logo="" group-title="Кино",Русский иллюзион orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9133/index.m3u8
+#EXTINF:-1 tvg-id="еврокино" tvg-name="Еврокино" tvg-logo="" group-title="Кино",Еврокино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9134/index.m3u8
+#EXTINF:-1 tvg-id="кинеко" tvg-name="Кинеко" tvg-logo="" group-title="Кино",Кинеко HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9135/index.m3u8
+#EXTINF:-1 tvg-id="домкино" tvg-name="Дом Кино" tvg-logo="" group-title="Кино",Дом Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9136/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="" group-title="Кино",Amedia 1 orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9137/index.m3u8
+#EXTINF:-1 tvg-id="мужскоекино" tvg-name="Мужское Кино" tvg-logo="" group-title="Кино",Мужское Кино HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9138/index.m3u8
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2" tvg-logo="" group-title="Кино",2x2 orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9139/index.m3u8
+#EXTINF:-1 tvg-id="black" tvg-name=".black" tvg-logo="" group-title="Кино",.black orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9140/index.m3u8
+#EXTINF:-1 tvg-id="русскийбестселлер" tvg-name="Русский бестселлер" tvg-logo="" group-title="Кино",Русский бестселлер orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9141/index.m3u8
+#EXTINF:-1 tvg-id="русскийдетектив" tvg-name="Русский детектив" tvg-logo="" group-title="Кино",Русский детектив orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9142/index.m3u8
+#EXTINF:-1 tvg-id="любимоекино" tvg-name="Любимое Кино" tvg-logo="" group-title="Кино",Любимое Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9143/index.m3u8
+#EXTINF:-1 tvg-id="комедия" tvg-name="Комедия" tvg-logo="" group-title="Кино",Комедия orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9144/index.m3u8
+#EXTINF:-1 tvg-id="fan" tvg-name="FAN" tvg-logo="" group-title="Кино",FAN orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9145/index.m3u8
+#EXTINF:-1 tvg-id="нтвхит" tvg-name="НТВ Хит" tvg-logo="" group-title="Кино",НТВ Хит orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9146/index.m3u8
+#EXTINF:-1 tvg-id="нтвсериал" tvg-name="НТВ Сериал" tvg-logo="" group-title="Кино",НТВ Сериал orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9147/index.m3u8
+#EXTINF:-1 tvg-id="нст" tvg-name="НСТ" tvg-logo="" group-title="Кино",НСТ orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9148/index.m3u8
+#EXTINF:-1 tvg-id="индия" tvg-name="Индия" tvg-logo="" group-title="Кино",Индия orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9149/index.m3u8
+#EXTINF:-1 tvg-id="мирсериала" tvg-name="Мир Сериала" tvg-logo="" group-title="Кино",Мир Сериала orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9151/index.m3u8
+#EXTINF:-1 tvg-id="ретро" tvg-name="Ретро" tvg-logo="" group-title="Кино",Ретро orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9152/index.m3u8
+#EXTINF:-1 tvg-id="фениксплюскино" tvg-name="Феникс плюс Кино" tvg-logo="" group-title="Кино",Феникс плюс Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9153/index.m3u8
+#EXTINF:-1 tvg-id="киноман" tvg-name="Киноман" tvg-logo="" group-title="Кино",Киноман orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9154/index.m3u8
+#EXTINF:-1 tvg-id="мосфильмзолотаяколлекция" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosfilm_logo.svg/200px-Mosfilm_logo.svg.png" group-title="Кино",Мосфильм. Золотая коллекция orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9156/index.m3u8
+#EXTINF:-1 tvg-id="дорама" tvg-name="Дорама" tvg-logo="" group-title="Кино",Дорама HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9224/index.m3u8
+#EXTINF:-1 tvg-id="bollywood" tvg-name="BollywooD" tvg-logo="" group-title="Кино",BollywooD HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9225/index.m3u8
+#EXTINF:-1 tvg-id="победа" tvg-name="Победа" tvg-logo="" group-title="Кино",Победа orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9226/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000русское" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="Кино",Viju TV1000 Русское orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9227/index.m3u8
+#EXTINF:-1 tvg-id="киносемья" tvg-name="Киносемья" tvg-logo="" group-title="Кино",Киносемья HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9228/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000action" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Кино",Viju TV1000 Action orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9229/index.m3u8
+#EXTINF:-1 tvg-id="нашеновоекино" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Кино",Наше Новое Кино orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9230/index.m3u8
+#EXTINF:-1 tvg-id="кинокомедия" tvg-name="Кинокомедия" tvg-logo="" group-title="Кино",Кинокомедия orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9231/index.m3u8
+#EXTINF:-1 tvg-id="amediapremium" tvg-name="Amedia Premium" tvg-logo="" group-title="Кино",Amedia Premium FHD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9233/index.m3u8
+#EXTINF:-1 tvg-id="amediahit" tvg-name="Amedia Hit" tvg-logo="" group-title="Кино",Amedia Hit orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9234/index.m3u8
+#EXTINF:-1 tvg-id="vijutv1000" tvg-name="Viju TV1000" tvg-logo="" group-title="Кино",Viju TV1000 orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9235/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="" group-title="Кино",Hollywood orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9236/index.m3u8
+#EXTINF:-1 tvg-id="red" tvg-name=".red" tvg-logo="" group-title="Кино",.red orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9237/index.m3u8
+#EXTINF:-1 tvg-id="киносвидание" tvg-name="Киносвидание" tvg-logo="" group-title="Кино",Киносвидание orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9238/index.m3u8
+#EXTINF:-1 tvg-id="дорама" tvg-name="Дорама" tvg-logo="" group-title="Кино",Дорама orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9239/index.m3u8
+#EXTINF:-1 tvg-id="русскийроман" tvg-name="Русский роман" tvg-logo="" group-title="Кино",Русский роман orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9240/index.m3u8
+#EXTINF:-1 tvg-id="иллюзионplus" tvg-name="Иллюзион+" tvg-logo="" group-title="Кино",Иллюзион+ orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9241/index.m3u8
+#EXTINF:-1 tvg-id="кинотв" tvg-name="Кино ТВ" tvg-logo="" group-title="Кино",Кино ТВ orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9244/index.m3u8
+#EXTINF:-1 tvg-id="vijuplusserial" tvg-name="Viju+ Serial" tvg-logo="" group-title="Кино",Viju+ Serial HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/9245/index.m3u8
+#EXTINF:-1 tvg-id="премиальное" tvg-name="Премиальное" tvg-logo="" group-title="Кино",Премиальное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7222/index.m3u8
+#EXTINF:-1 tvg-id="киносемья" tvg-name="Киносемья" tvg-logo="" group-title="Кино",Киносемья HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7244/index.m3u8
+#EXTINF:-1 tvg-id="киносвидание" tvg-name="Киносвидание" tvg-logo="" group-title="Кино",Киносвидание HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7245/index.m3u8
+#EXTINF:-1 tvg-id="страшное" tvg-name="Страшное" tvg-logo="" group-title="Кино",Страшное HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7247/index.m3u8
+#EXTINF:-1 tvg-id="кинокомедия" tvg-name="Кинокомедия" tvg-logo="" group-title="Кино",Кинокомедия HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7248/index.m3u8
+#EXTINF:-1 tvg-id="киномикс" tvg-name="Киномикс" tvg-logo="" group-title="Кино",Киномикс HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7249/index.m3u8
+#EXTINF:-1 tvg-id="кинохит" tvg-name="Кинохит" tvg-logo="" group-title="Кино",Кинохит HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7250/index.m3u8
+#EXTINF:-1 tvg-id="kinojam1" tvg-name="KinoJam 1" tvg-logo="" group-title="Кино",KinoJam 1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7260/index.m3u8
+#EXTINF:-1 tvg-id="kinojam2" tvg-name="KinoJam 2" tvg-logo="" group-title="Кино",KinoJam 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7261/index.m3u8
+#EXTINF:-1 tvg-id="мосфильмзолотаяколлекция" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosfilm_logo.svg/200px-Mosfilm_logo.svg.png" group-title="Кино",Мосфильм. Золотая коллекция HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/7347/index.m3u8
+#EXTINF:-1 tvg-id="vfadventure" tvg-name="VF Adventure" tvg-logo="" group-title="Кино",VF Adventure
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10000/index.m3u8
+#EXTINF:-1 tvg-id="vfanime" tvg-name="VF Anime" tvg-logo="" group-title="Кино",VF Anime
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10001/index.m3u8
+#EXTINF:-1 tvg-id="vfcartoon" tvg-name="VF Cartoon" tvg-logo="" group-title="Кино",VF Cartoon
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10002/index.m3u8
+#EXTINF:-1 tvg-id="vfcomedy" tvg-name="VF Comedy" tvg-logo="" group-title="Кино",VF Comedy
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10003/index.m3u8
+#EXTINF:-1 tvg-id="vffamily" tvg-name="VF Family" tvg-logo="" group-title="Кино",VF Family
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10004/index.m3u8
+#EXTINF:-1 tvg-id="vffantasy" tvg-name="VF Fantasy" tvg-logo="" group-title="Кино",VF Fantasy
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10005/index.m3u8
+#EXTINF:-1 tvg-id="vfmelodrama" tvg-name="VF Melodrama" tvg-logo="" group-title="Кино",VF Melodrama
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10006/index.m3u8
+#EXTINF:-1 tvg-id="vfmystic" tvg-name="VF Mystic" tvg-logo="" group-title="Кино",VF Mystic
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10007/index.m3u8
+#EXTINF:-1 tvg-id="vfужасы" tvg-name="VF Ужасы" tvg-logo="" group-title="Кино",VF Ужасы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10008/index.m3u8
+#EXTINF:-1 tvg-id="vfvhsmix" tvg-name="VF VHS MIX" tvg-logo="" group-title="Кино",VF VHS MIX
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10009/index.m3u8
+#EXTINF:-1 tvg-id="vfужасыvhs" tvg-name="VF Ужасы VHS" tvg-logo="" group-title="Кино",VF Ужасы VHS
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10010/index.m3u8
+#EXTINF:-1 tvg-id="vfпремьера" tvg-name="VF Премьера" tvg-logo="" group-title="Кино",VF Премьера
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10051/index.m3u8
+#EXTINF:-1 tvg-id="vfpremiere" tvg-name="VF Premiere" tvg-logo="" group-title="Кино",VF Premiere
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10052/index.m3u8
+#EXTINF:-1 tvg-id="vfклассика" tvg-name="VF Классика" tvg-logo="" group-title="Кино",VF Классика
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10053/index.m3u8
+#EXTINF:-1 tvg-id="vfclassic" tvg-name="VF Classic" tvg-logo="" group-title="Кино",VF Classic
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10054/index.m3u8
+#EXTINF:-1 tvg-id="vfкомедия" tvg-name="VF Комедия" tvg-logo="" group-title="Кино",VF Комедия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10055/index.m3u8
+#EXTINF:-1 tvg-id="vfкатастрофы" tvg-name="VF Катастрофы" tvg-logo="" group-title="Кино",VF Катастрофы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10080/index.m3u8
+#EXTINF:-1 tvg-id="vfmarvel" tvg-name="VF Marvel" tvg-logo="" group-title="Кино",VF Marvel
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10081/index.m3u8
+#EXTINF:-1 tvg-id="vfвоенные" tvg-name="VF Военные" tvg-logo="" group-title="Кино",VF Военные
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10082/index.m3u8
+#EXTINF:-1 tvg-id="vfнашапобеда" tvg-name="VF Наша победа" tvg-logo="" group-title="Кино",VF Наша победа
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10083/index.m3u8
+#EXTINF:-1 tvg-id="vfмосфильм" tvg-name="VF Мосфильм" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mosfilm_logo.svg/200px-Mosfilm_logo.svg.png" group-title="Кино",VF Мосфильм
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10084/index.m3u8
+#EXTINF:-1 tvg-id="vfфильмыссср" tvg-name="VF Фильмы СССР" tvg-logo="" group-title="Кино",VF Фильмы СССР
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10085/index.m3u8
+#EXTINF:-1 tvg-id="vfмультфильмыссср" tvg-name="VF Мультфильмы СССР" tvg-logo="" group-title="Кино",VF Мультфильмы СССР
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10086/index.m3u8
+#EXTINF:-1 tvg-id="vfбоевик" tvg-name="VF Боевик" tvg-logo="" group-title="Кино",VF Боевик
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10087/index.m3u8
+#EXTINF:-1 tvg-id="премиальное50" tvg-name="Премиальное 50" tvg-logo="" group-title="Кино",Премиальное HD 50
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10017/index.m3u8
+#EXTINF:-1 tvg-id="душевное" tvg-name="Душевное" tvg-logo="" group-title="Кино",Душевное HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10042/index.m3u8
+#EXTINF:-1 tvg-id="премиальное" tvg-name="Премиальное" tvg-logo="" group-title="Кино",Премиальное HD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10044/index.m3u8
+#EXTINF:-1 tvg-id="мужскоекино" tvg-name="Мужское Кино" tvg-logo="" group-title="Кино",Мужское Кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10045/index.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="" group-title="Кино",FlixSnip HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/10060/index.m3u8
+#EXTINF:-1 tvg-id="shottv" tvg-name="Shot TV" tvg-logo="" group-title="Кино",Shot TV
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/526/index.m3u8
+#EXTINF:-1 tvg-id="cineman" tvg-name="CineMan" tvg-logo="" group-title="Кино",CineMan
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11004/index.m3u8
+#EXTINF:-1 tvg-id="cinemantop" tvg-name="CineMan Top" tvg-logo="" group-title="Кино",CineMan Top
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11005/index.m3u8
+#EXTINF:-1 tvg-id="cinemanaction" tvg-name="CineMan Action" tvg-logo="" group-title="Кино",CineMan Action
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11006/index.m3u8
+#EXTINF:-1 tvg-id="cinemanthriller" tvg-name="CineMan Thriller" tvg-logo="" group-title="Кино",CineMan Thriller
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11007/index.m3u8
+#EXTINF:-1 tvg-id="cinemanмелодрама" tvg-name="CineMan Мелодрама" tvg-logo="" group-title="Кино",CineMan Мелодрама
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11008/index.m3u8
+#EXTINF:-1 tvg-id="cinemanmarvel" tvg-name="CineMan Marvel" tvg-logo="" group-title="Кино",CineMan Marvel
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11009/index.m3u8
+#EXTINF:-1 tvg-id="cinemanужасы" tvg-name="CineMan Ужасы" tvg-logo="" group-title="Кино",CineMan Ужасы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11010/index.m3u8
+#EXTINF:-1 tvg-id="cinemanкомедия" tvg-name="CineMan Комедия" tvg-logo="" group-title="Кино",CineMan Комедия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11011/index.m3u8
+#EXTINF:-1 tvg-id="cinemanvhs" tvg-name="CineMan VHS" tvg-logo="" group-title="Кино",CineMan VHS
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11012/index.m3u8
+#EXTINF:-1 tvg-id="cinemanрукино" tvg-name="CineMan РуКино" tvg-logo="" group-title="Кино",CineMan РуКино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11013/index.m3u8
+#EXTINF:-1 tvg-id="cinemanсваты" tvg-name="CineMan Сваты" tvg-logo="" group-title="Кино",CineMan Сваты
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11014/index.m3u8
+#EXTINF:-1 tvg-id="cinemanкатастрофы" tvg-name="CineMan Катастрофы" tvg-logo="" group-title="Кино",CineMan Катастрофы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15106/index.m3u8
+#EXTINF:-1 tvg-id="cinemanментовскиевойны" tvg-name="CineMan Ментовские войны" tvg-logo="" group-title="Кино",CineMan Ментовские войны
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16063/index.m3u8
+#EXTINF:-1 tvg-id="cinemanпёсplusлихач" tvg-name="CineMan ПёС + Лихач" tvg-logo="" group-title="Кино",CineMan ПёС + Лихач
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16064/index.m3u8
+#EXTINF:-1 tvg-id="cinemanлесник" tvg-name="CineMan Лесник" tvg-logo="" group-title="Кино",CineMan Лесник
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16065/index.m3u8
+#EXTINF:-1 tvg-id="cinemanminiseries" tvg-name="CineMan MiniSeries" tvg-logo="" group-title="Кино",CineMan MiniSeries
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19437/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiere1" tvg-name="BCU Premiere 1" tvg-logo="" group-title="Кино",BCU Premiere 1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11015/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiere2" tvg-name="BCU Premiere 2" tvg-logo="" group-title="Кино",BCU Premiere 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11016/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiere3" tvg-name="BCU Premiere 3" tvg-logo="" group-title="Кино",BCU Premiere 3 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11017/index.m3u8
+#EXTINF:-1 tvg-id="bcufantasyr" tvg-name="BCU FantasyR" tvg-logo="" group-title="Кино",BCU Fantasy HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11026/index.m3u8
+#EXTINF:-1 tvg-id="bcuactionr" tvg-name="BCU ActionR" tvg-logo="" group-title="Кино",BCU Action HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11027/index.m3u8
+#EXTINF:-1 tvg-id="bcucatastropher" tvg-name="BCU CatastropheR" tvg-logo="" group-title="Кино",BCU Catastrophe HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11028/index.m3u8
+#EXTINF:-1 tvg-id="bcucinemar" tvg-name="BCU CinemaR" tvg-logo="" group-title="Кино",BCU Cinema HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11029/index.m3u8
+#EXTINF:-1 tvg-id="bcucinemaplusr" tvg-name="BCU Cinema+R" tvg-logo="" group-title="Кино",BCU Cinema+ HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11030/index.m3u8
+#EXTINF:-1 tvg-id="bcucomedyr" tvg-name="BCU ComedyR" tvg-logo="" group-title="Кино",BCU Comedy HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11031/index.m3u8
+#EXTINF:-1 tvg-id="bcufantastic" tvg-name="BCU Fantastic" tvg-logo="" group-title="Кино",BCU Fantastic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11032/index.m3u8
+#EXTINF:-1 tvg-id="bcufilmystic" tvg-name="BCU FilMystic" tvg-logo="" group-title="Кино",BCU FilMystic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11033/index.m3u8
+#EXTINF:-1 tvg-id="bcuhistoryr" tvg-name="BCU HistoryR" tvg-logo="" group-title="Кино",BCU History HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11034/index.m3u8
+#EXTINF:-1 tvg-id="bcukinoratingr" tvg-name="BCU KinoratingR" tvg-logo="" group-title="Кино",BCU Kinorating HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11037/index.m3u8
+#EXTINF:-1 tvg-id="bcumarvelr" tvg-name="BCU MarvelR" tvg-logo="" group-title="Кино",BCU Marvel HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11038/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiere" tvg-name="BCU Premiere" tvg-logo="" group-title="Кино",BCU Premiere HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11039/index.m3u8
+#EXTINF:-1 tvg-id="bcuromanticr" tvg-name="BCU RomanticR" tvg-logo="" group-title="Кино",BCU Romantic HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11040/index.m3u8
+#EXTINF:-1 tvg-id="bcurussianr" tvg-name="BCU RussianR" tvg-logo="" group-title="Кино",BCU Russian HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11041/index.m3u8
+#EXTINF:-1 tvg-id="bcuvhsr" tvg-name="BCU VHSR" tvg-logo="" group-title="Кино",BCU VHS HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11042/index.m3u8
+#EXTINF:-1 tvg-id="bcumedia" tvg-name="BCU Media" tvg-logo="" group-title="Кино",BCU Media HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11043/index.m3u8
+#EXTINF:-1 tvg-id="bcustars" tvg-name="BCU Stars" tvg-logo="" group-title="Кино",BCU Stars HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11044/index.m3u8
+#EXTINF:-1 tvg-id="bcuultra" tvg-name="BCU Ultra" tvg-logo="" group-title="Кино",BCU Ultra 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11045/index.m3u8
+#EXTINF:-1 tvg-id="bcuruserial" tvg-name="BCU RuSerial" tvg-logo="" group-title="Кино",BCU RuSerial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11046/index.m3u8
+#EXTINF:-1 tvg-id="bcuсватыr" tvg-name="BCU СватыR" tvg-logo="" group-title="Кино",BCU Сваты HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11047/index.m3u8
+#EXTINF:-1 tvg-id="bcucriminalr" tvg-name="BCU CriminalR" tvg-logo="" group-title="Кино",BCU Criminal HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11048/index.m3u8
+#EXTINF:-1 tvg-id="bcupremiereultra" tvg-name="BCU Premiere Ultra" tvg-logo="" group-title="Кино",BCU Premiere Ultra 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15023/index.m3u8
+#EXTINF:-1 tvg-id="bcumediaold" tvg-name="BCU Media OLD" tvg-logo="" group-title="Кино",BCU Media HD OLD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15024/index.m3u8
+#EXTINF:-1 tvg-id="bcumarvel" tvg-name="BCU Marvel" tvg-logo="" group-title="Кино",BCU Marvel HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15025/index.m3u8
+#EXTINF:-1 tvg-id="bcucomedy" tvg-name="BCU Comedy" tvg-logo="" group-title="Кино",BCU Comedy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15026/index.m3u8
+#EXTINF:-1 tvg-id="bcureality" tvg-name="BCU Reality" tvg-logo="" group-title="Кино",BCU Reality HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16082/index.m3u8
+#EXTINF:-1 tvg-id="bcurealityold" tvg-name="BCU Reality OLD" tvg-logo="" group-title="Кино",BCU Reality OLD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16083/index.m3u8
+#EXTINF:-1 tvg-id="bcusurvival" tvg-name="BCU Survival" tvg-logo="" group-title="Кино",BCU Survival HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17019/index.m3u8
+#EXTINF:-1 tvg-id="bcusurvivalold" tvg-name="BCU Survival OLD" tvg-logo="" group-title="Кино",BCU Survival OLD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17020/index.m3u8
+#EXTINF:-1 tvg-id="bcufamilyr" tvg-name="BCU FamilyR" tvg-logo="" group-title="Кино",BCU Family HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17021/index.m3u8
+#EXTINF:-1 tvg-id="bcutrumotion" tvg-name="BCU TruMotion" tvg-logo="" group-title="Кино",BCU TruMotion HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17054/index.m3u8
+#EXTINF:-1 tvg-id="bcuromantic" tvg-name="BCU Romantic" tvg-logo="" group-title="Кино",BCU Romantic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18052/index.m3u8
+#EXTINF:-1 tvg-id="strahtvsky2000" tvg-name="StrahTV Sky2000" tvg-logo="" group-title="Кино",StrahTV Sky2000 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11054/index.m3u8
+#EXTINF:-1 tvg-id="strahtvthex-files" tvg-name="StrahTV The X-Files" tvg-logo="" group-title="Кино",StrahTV The X-Files
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11055/index.m3u8
+#EXTINF:-1 tvg-id="strahtvvhs" tvg-name="StrahTV VHS" tvg-logo="" group-title="Кино",StrahTV VHS HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11059/index.m3u8
+#EXTINF:-1 tvg-id="strahtvинтернытв" tvg-name="StrahTV Интерны ТВ" tvg-logo="" group-title="Кино",StrahTV Интерны ТВ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11060/index.m3u8
+#EXTINF:-1 tvg-id="strahtvссср" tvg-name="StrahTV СССР" tvg-logo="" group-title="Кино",StrahTV СССР
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11061/index.m3u8
+#EXTINF:-1 tvg-id="strahtvсваты" tvg-name="StrahTV Сваты" tvg-logo="" group-title="Кино",StrahTV Сваты
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11062/index.m3u8
+#EXTINF:-1 tvg-id="strahtvунивертв" tvg-name="StrahTV Универ ТВ" tvg-logo="" group-title="Кино",StrahTV Универ ТВ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11063/index.m3u8
+#EXTINF:-1 tvg-id="strahtvхит" tvg-name="StrahTV Хит" tvg-logo="" group-title="Кино",StrahTV Хит HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11064/index.m3u8
+#EXTINF:-1 tvg-id="strahtvкосмо" tvg-name="StrahTV Космо" tvg-logo="" group-title="Кино",StrahTV Космо HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11065/index.m3u8
+#EXTINF:-1 tvg-id="strahtvстрах" tvg-name="StrahTV Страх" tvg-logo="" group-title="Кино",StrahTV Страх HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11069/index.m3u8
+#EXTINF:-1 tvg-id="strahtvфантастика" tvg-name="StrahTV Фантастика" tvg-logo="" group-title="Кино",StrahTV Фантастика HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11070/index.m3u8
+#EXTINF:-1 tvg-id="strahtvюнит" tvg-name="StrahTV Юнит" tvg-logo="" group-title="Кино",StrahTV Юнит HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11071/index.m3u8
+#EXTINF:-1 tvg-id="pgpremiere" tvg-name="PG Premiere" tvg-logo="" group-title="Кино",PG Premiere HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11094/index.m3u8
+#EXTINF:-1 tvg-id="pgpremium" tvg-name="PG Premium" tvg-logo="" group-title="Кино",PG Premium HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11095/index.m3u8
+#EXTINF:-1 tvg-id="pgрукино" tvg-name="PG РуКино" tvg-logo="" group-title="Кино",PG РуКино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11096/index.m3u8
+#EXTINF:-1 tvg-id="pgvictory" tvg-name="PG Victory" tvg-logo="" group-title="Кино",PG Victory HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11097/index.m3u8
+#EXTINF:-1 tvg-id="pgparadox" tvg-name="PG Paradox" tvg-logo="" group-title="Кино",PG Paradox HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11098/index.m3u8
+#EXTINF:-1 tvg-id="pgthriller" tvg-name="PG Thriller" tvg-logo="" group-title="Кино",PG Thriller HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11099/index.m3u8
+#EXTINF:-1 tvg-id="pgparadise" tvg-name="PG Paradise" tvg-logo="" group-title="Кино",PG Paradise HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11100/index.m3u8
+#EXTINF:-1 tvg-id="pgserial" tvg-name="PG Serial" tvg-logo="" group-title="Кино",PG Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11101/index.m3u8
+#EXTINF:-1 tvg-id="pgussr" tvg-name="PG USSR" tvg-logo="" group-title="Кино",PG USSR HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11102/index.m3u8
+#EXTINF:-1 tvg-id="pgvhs" tvg-name="PG VHS" tvg-logo="" group-title="Кино",PG VHS HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15000/index.m3u8
+#EXTINF:-1 tvg-id="vfкино" tvg-name="VF Кино" tvg-logo="" group-title="Кино",VF Кино 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11114/index.m3u8
+#EXTINF:-1 tvg-id="vfсериал" tvg-name="VF Сериал" tvg-logo="" group-title="Кино",VF Сериал 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11115/index.m3u8
+#EXTINF:-1 tvg-id="vftopseries" tvg-name="VF TOP Series" tvg-logo="" group-title="Кино",VF TOP Series
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11116/index.m3u8
+#EXTINF:-1 tvg-id="vfarthouse" tvg-name="VF Art house" tvg-logo="" group-title="Кино",VF Art house
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11119/index.m3u8
+#EXTINF:-1 tvg-id="vfdetective" tvg-name="VF Detective" tvg-logo="" group-title="Кино",VF Detective
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11120/index.m3u8
+#EXTINF:-1 tvg-id="vffantastic" tvg-name="VF Fantastic" tvg-logo="" group-title="Кино",VF Fantastic
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11121/index.m3u8
+#EXTINF:-1 tvg-id="vfоскар" tvg-name="VF Оскар" tvg-logo="" group-title="Кино",VF Оскар
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/11122/index.m3u8
+#EXTINF:-1 tvg-id="topвеликолепныйвек" tvg-name="TOP Великолепный Век" tvg-logo="" group-title="Кино",TOP Великолепный Век HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13001/index.m3u8
+#EXTINF:-1 tvg-id="top80s" tvg-name="TOP 80 S" tvg-logo="" group-title="Кино",TOP 80 S HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13002/index.m3u8
+#EXTINF:-1 tvg-id="topbudo" tvg-name="TOP BUDO" tvg-logo="" group-title="Кино",TOP BUDO HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13003/index.m3u8
+#EXTINF:-1 tvg-id="topcinema" tvg-name="TOP Cinema" tvg-logo="" group-title="Кино",TOP Cinema HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13004/index.m3u8
+#EXTINF:-1 tvg-id="topussr" tvg-name="TOP USSR" tvg-logo="" group-title="Кино",TOP USSR HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13005/index.m3u8
+#EXTINF:-1 tvg-id="topmix" tvg-name="TOP MIX" tvg-logo="" group-title="Кино",TOP MIX HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13006/index.m3u8
+#EXTINF:-1 tvg-id="mm007" tvg-name="MM 007" tvg-logo="" group-title="Кино",MM 007 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13009/index.m3u8
+#EXTINF:-1 tvg-id="mmlove" tvg-name="MM Love" tvg-logo="" group-title="Кино",MM Love HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13010/index.m3u8
+#EXTINF:-1 tvg-id="mmnewfilm1" tvg-name="MM NewFilm 1" tvg-logo="" group-title="Кино",MM NewFilm 1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13011/index.m3u8
+#EXTINF:-1 tvg-id="mmnewfilm2" tvg-name="MM NewFilm 2" tvg-logo="" group-title="Кино",MM NewFilm 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13012/index.m3u8
+#EXTINF:-1 tvg-id="mmnewfilm3" tvg-name="MM NewFilm 3" tvg-logo="" group-title="Кино",MM NewFilm 3 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13013/index.m3u8
+#EXTINF:-1 tvg-id="mmnewfilmru" tvg-name="MM NewFilm RU" tvg-logo="" group-title="Кино",MM NewFilm RU HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13014/index.m3u8
+#EXTINF:-1 tvg-id="mmrock" tvg-name="MM Rock" tvg-logo="" group-title="Кино",MM Rock HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13015/index.m3u8
+#EXTINF:-1 tvg-id="mmtomandjerry" tvg-name="MM Tom and Jerry" tvg-logo="" group-title="Кино",MM Tom and Jerry HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13016/index.m3u8
+#EXTINF:-1 tvg-id="mmufo" tvg-name="MM UFO" tvg-logo="" group-title="Кино",MM UFO HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13017/index.m3u8
+#EXTINF:-1 tvg-id="mmussr1941-1945" tvg-name="MM USSR 1941-1945" tvg-logo="" group-title="Кино",MM USSR 1941-1945 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13018/index.m3u8
+#EXTINF:-1 tvg-id="mmussrкомедия" tvg-name="MM USSR Комедия" tvg-logo="" group-title="Кино",MM USSR Комедия HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13019/index.m3u8
+#EXTINF:-1 tvg-id="mmussrмультфильм" tvg-name="MM USSR Мультфильм" tvg-logo="" group-title="Кино",MM USSR Мультфильм HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13020/index.m3u8
+#EXTINF:-1 tvg-id="mmussrсказки" tvg-name="MM USSR Сказки" tvg-logo="" group-title="Кино",MM USSR Сказки HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13021/index.m3u8
+#EXTINF:-1 tvg-id="mmussrдрама" tvg-name="MM USSR Драма" tvg-logo="" group-title="Кино",MM USSR Драма HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13022/index.m3u8
+#EXTINF:-1 tvg-id="mmworldhits" tvg-name="MM World Hits" tvg-logo="" group-title="Кино",MM World Hits HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13023/index.m3u8
+#EXTINF:-1 tvg-id="mmагатакристи" tvg-name="MM Агата Кристи" tvg-logo="" group-title="Кино",MM Агата Кристи HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13024/index.m3u8
+#EXTINF:-1 tvg-id="mmграйндхаус" tvg-name="MM Грайндхаус" tvg-logo="" group-title="Кино",MM Грайндхаус HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13025/index.m3u8
+#EXTINF:-1 tvg-id="mmhoney" tvg-name="MM Honey" tvg-logo="" group-title="Кино",MM Honey HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13026/index.m3u8
+#EXTINF:-1 tvg-id="mmбоевикclassic" tvg-name="MM Боевик Classic" tvg-logo="" group-title="Кино",MM Боевик Classic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13027/index.m3u8
+#EXTINF:-1 tvg-id="mmбоевик" tvg-name="MM Боевик" tvg-logo="" group-title="Кино",MM Боевик HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13028/index.m3u8
+#EXTINF:-1 tvg-id="mmвестерн" tvg-name="MM Вестерн" tvg-logo="" group-title="Кино",MM Вестерн HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13029/index.m3u8
+#EXTINF:-1 tvg-id="mmворонины" tvg-name="MM Воронины" tvg-logo="" group-title="Кино",MM Воронины HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13031/index.m3u8
+#EXTINF:-1 tvg-id="mmзатмение" tvg-name="MM Затмение" tvg-logo="" group-title="Кино",MM Затмение HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13032/index.m3u8
+#EXTINF:-1 tvg-id="mmистория" tvg-name="MM История" tvg-logo="" group-title="Кино",MM История HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13033/index.m3u8
+#EXTINF:-1 tvg-id="mmкатастрофа" tvg-name="MM Катастрофа" tvg-logo="" group-title="Кино",MM Катастрофа HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13034/index.m3u8
+#EXTINF:-1 tvg-id="mmквартирник" tvg-name="MM Квартирник" tvg-logo="" group-title="Кино",MM Квартирник HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13035/index.m3u8
+#EXTINF:-1 tvg-id="mmкиберпанк" tvg-name="MM Киберпанк" tvg-logo="" group-title="Кино",MM Киберпанк HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13036/index.m3u8
+#EXTINF:-1 tvg-id="mmкомедияclassic" tvg-name="MM Комедия Classic" tvg-logo="" group-title="Кино",MM Комедия Classic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13037/index.m3u8
+#EXTINF:-1 tvg-id="mmкомедия" tvg-name="MM Комедия" tvg-logo="" group-title="Кино",MM Комедия HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13038/index.m3u8
+#EXTINF:-1 tvg-id="mmкриминал" tvg-name="MM Криминал" tvg-logo="" group-title="Кино",MM Криминал HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13039/index.m3u8
+#EXTINF:-1 tvg-id="mmкрутые90-е" tvg-name="MM Крутые 90-е" tvg-logo="" group-title="Кино",MM Крутые 90-е HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13040/index.m3u8
+#EXTINF:-1 tvg-id="mmкунг-фу" tvg-name="MM Кунг-Фу" tvg-logo="" group-title="Кино",MM Кунг-Фу HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13041/index.m3u8
+#EXTINF:-1 tvg-id="mmlesson" tvg-name="MM Lesson" tvg-logo="" group-title="Кино",MM Lesson HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13042/index.m3u8
+#EXTINF:-1 tvg-id="mmsmile" tvg-name="MM Smile" tvg-logo="" group-title="Кино",MM Smile HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13043/index.m3u8
+#EXTINF:-1 tvg-id="mmмифология" tvg-name="MM Мифология" tvg-logo="" group-title="Кино",MM Мифология HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13044/index.m3u8
+#EXTINF:-1 tvg-id="mmнуар" tvg-name="MM Нуар" tvg-logo="" group-title="Кино",MM Нуар HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13045/index.m3u8
+#EXTINF:-1 tvg-id="mmситком20" tvg-name="MM Ситком 2.0" tvg-logo="" group-title="Кино",MM Ситком 2.0 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13046/index.m3u8
+#EXTINF:-1 tvg-id="mmпогружение" tvg-name="MM Погружение" tvg-logo="" group-title="Кино",MM Погружение HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13047/index.m3u8
+#EXTINF:-1 tvg-id="mmприключения" tvg-name="MM Приключения" tvg-logo="" group-title="Кино",MM Приключения HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13048/index.m3u8
+#EXTINF:-1 tvg-id="mmполицейскийсрублёвки" tvg-name="MM Полицейский с Рублёвки" tvg-logo="" group-title="Кино",MM Полицейский с Рублёвки HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13049/index.m3u8
+#EXTINF:-1 tvg-id="mmроскино" tvg-name="MM Роскино" tvg-logo="" group-title="Кино",MM Роскино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13050/index.m3u8
+#EXTINF:-1 tvg-id="mmсваты" tvg-name="MM Сваты" tvg-logo="" group-title="Кино",MM Сваты HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13051/index.m3u8
+#EXTINF:-1 tvg-id="mmситком" tvg-name="MM Ситком" tvg-logo="" group-title="Кино",MM Ситком HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13052/index.m3u8
+#EXTINF:-1 tvg-id="mmскорость" tvg-name="MM Скорость" tvg-logo="" group-title="Кино",MM Скорость HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13053/index.m3u8
+#EXTINF:-1 tvg-id="mmспорт" tvg-name="MM Спорт" tvg-logo="" group-title="Кино",MM Спорт HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13054/index.m3u8
+#EXTINF:-1 tvg-id="mmстивенкинг" tvg-name="MM Стивен Кинг" tvg-logo="" group-title="Кино",MM Стивен Кинг HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13055/index.m3u8
+#EXTINF:-1 tvg-id="mmсупергерои" tvg-name="MM Супергерои" tvg-logo="" group-title="Кино",MM Супергерои HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13056/index.m3u8
+#EXTINF:-1 tvg-id="mmflip" tvg-name="MM Flip" tvg-logo="" group-title="Кино",MM Flip UHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13057/index.m3u8
+#EXTINF:-1 tvg-id="mmтриллер" tvg-name="MM Триллер" tvg-logo="" group-title="Кино",MM Триллер HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13058/index.m3u8
+#EXTINF:-1 tvg-id="mmужастик" tvg-name="MM Ужастик" tvg-logo="" group-title="Кино",MM Ужастик HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13059/index.m3u8
+#EXTINF:-1 tvg-id="mmussrприключения" tvg-name="MM USSR Приключения" tvg-logo="" group-title="Кино",MM USSR Приключения HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13060/index.m3u8
+#EXTINF:-1 tvg-id="mmсинематограф" tvg-name="MM Синематограф" tvg-logo="" group-title="Кино",MM Синематограф HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13061/index.m3u8
+#EXTINF:-1 tvg-id="mmфантастика" tvg-name="MM Фантастика" tvg-logo="" group-title="Кино",MM Фантастика HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13062/index.m3u8
+#EXTINF:-1 tvg-id="mmфобия" tvg-name="MM Фобия" tvg-logo="" group-title="Кино",MM Фобия HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13063/index.m3u8
+#EXTINF:-1 tvg-id="mmwaltdisney" tvg-name="MM Walt Disney" tvg-logo="" group-title="Кино",MM Walt Disney HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13064/index.m3u8
+#EXTINF:-1 tvg-id="mmliveplanet" tvg-name="MM Live Planet" tvg-logo="" group-title="Кино",MM Live Planet HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13095/index.m3u8
+#EXTINF:-1 tvg-id="mmussrдетектив" tvg-name="MM USSR Детектив" tvg-logo="" group-title="Кино",MM USSR Детектив HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13096/index.m3u8
+#EXTINF:-1 tvg-id="mmсемейный1" tvg-name="MM Семейный 1" tvg-logo="" group-title="Кино",MM Семейный 1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13097/index.m3u8
+#EXTINF:-1 tvg-id="mmсемейный2" tvg-name="MM Семейный 2" tvg-logo="" group-title="Кино",MM Семейный 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13098/index.m3u8
+#EXTINF:-1 tvg-id="mmужасы" tvg-name="MM Ужасы" tvg-logo="" group-title="Кино",MM Ужасы HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13099/index.m3u8
+#EXTINF:-1 tvg-id="mmужасыclassic" tvg-name="MM Ужасы Classic" tvg-logo="" group-title="Кино",MM Ужасы Classic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14128/index.m3u8
+#EXTINF:-1 tvg-id="mmcelebrity" tvg-name="MM Celebrity" tvg-logo="" group-title="Кино",MM Celebrity HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16084/index.m3u8
+#EXTINF:-1 tvg-id="mmclassic" tvg-name="MM Classic" tvg-logo="" group-title="Кино",MM Classic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16085/index.m3u8
+#EXTINF:-1 tvg-id="mmдрама" tvg-name="MM Драма" tvg-logo="" group-title="Кино",MM Драма HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16086/index.m3u8
+#EXTINF:-1 tvg-id="vfсваты" tvg-name="VF Сваты" tvg-logo="" group-title="Кино",VF Сваты
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13080/index.m3u8
+#EXTINF:-1 tvg-id="vfсолдаты" tvg-name="VF Солдаты" tvg-logo="" group-title="Кино",VF Солдаты
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13081/index.m3u8
+#EXTINF:-1 tvg-id="vfтайныследствия" tvg-name="VF Тайны следствия" tvg-logo="" group-title="Кино",VF Тайны следствия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13082/index.m3u8
+#EXTINF:-1 tvg-id="vfворонины" tvg-name="VF Воронины" tvg-logo="" group-title="Кино",VF Воронины
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13083/index.m3u8
+#EXTINF:-1 tvg-id="vfунивер" tvg-name="VF Универ" tvg-logo="" group-title="Кино",VF Универ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13084/index.m3u8
+#EXTINF:-1 tvg-id="vfseries" tvg-name="VF Series" tvg-logo="" group-title="Кино",VF Series
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13085/index.m3u8
+#EXTINF:-1 tvg-id="vfслед" tvg-name="VF След" tvg-logo="" group-title="Кино",VF След
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13086/index.m3u8
+#EXTINF:-1 tvg-id="vfсериал" tvg-name="VF Сериал" tvg-logo="" group-title="Кино",VF Сериал
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13087/index.m3u8
+#EXTINF:-1 tvg-id="vfмыльныеоперы" tvg-name="VF Мыльные оперы" tvg-logo="" group-title="Кино",VF Мыльные оперы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13088/index.m3u8
+#EXTINF:-1 tvg-id="vfthriller" tvg-name="VF Thriller" tvg-logo="" group-title="Кино",VF Thriller
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13089/index.m3u8
+#EXTINF:-1 tvg-id="vfиндия" tvg-name="VF Индия" tvg-logo="" group-title="Кино",VF Индия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13090/index.m3u8
+#EXTINF:-1 tvg-id="vfистория" tvg-name="VF История" tvg-logo="" group-title="Кино",VF История
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13091/index.m3u8
+#EXTINF:-1 tvg-id="vfcomics" tvg-name="VF Comics" tvg-logo="" group-title="Кино",VF Comics
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13092/index.m3u8
+#EXTINF:-1 tvg-id="vfкриминал" tvg-name="VF Криминал" tvg-logo="" group-title="Кино",VF Криминал
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13093/index.m3u8
+#EXTINF:-1 tvg-id="vfклиника" tvg-name="VF Клиника" tvg-logo="" group-title="Кино",VF Клиника
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/13094/index.m3u8
+#EXTINF:-1 tvg-id="vfлуидефюнес" tvg-name="VF Луи де Фюнес" tvg-logo="" group-title="Кино",VF Луи де Фюнес
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17000/index.m3u8
+#EXTINF:-1 tvg-id="vfчернобыль" tvg-name="VF Чернобыль" tvg-logo="" group-title="Кино",VF Чернобыль
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17001/index.m3u8
+#EXTINF:-1 tvg-id="vfthex-files" tvg-name="VF The X-Files" tvg-logo="" group-title="Кино",VF The X-Files
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17002/index.m3u8
+#EXTINF:-1 tvg-id="vfсверхъестественное" tvg-name="VF Сверхъестественное" tvg-logo="" group-title="Кино",VF Сверхъестественное
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17003/index.m3u8
+#EXTINF:-1 tvg-id="vfлеонидгайдай" tvg-name="VF Леонид Гайдай" tvg-logo="" group-title="Кино",VF Леонид Гайдай
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17004/index.m3u8
+#EXTINF:-1 tvg-id="vfамериканскаяисторияужасов" tvg-name="VF Американская история ужасов" tvg-logo="" group-title="Кино",VF Американская история ужасов
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17005/index.m3u8
+#EXTINF:-1 tvg-id="vfдрузья" tvg-name="VF Друзья" tvg-logo="" group-title="Кино",VF Друзья
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17006/index.m3u8
+#EXTINF:-1 tvg-id="vfсашатаня" tvg-name="VF СашаТаня" tvg-logo="" group-title="Кино",VF СашаТаня
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17008/index.m3u8
+#EXTINF:-1 tvg-id="vfджекичан" tvg-name="VF Джеки Чан" tvg-logo="" group-title="Кино",VF Джеки Чан
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17009/index.m3u8
+#EXTINF:-1 tvg-id="vfнашараша" tvg-name="VF Наша Раша" tvg-logo="" group-title="Кино",VF Наша Раша
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17010/index.m3u8
+#EXTINF:-1 tvg-id="vfприветиз90х" tvg-name="VF Привет из 90х" tvg-logo="" group-title="Кино",VF Привет из 90х
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17011/index.m3u8
+#EXTINF:-1 tvg-id="vfэльдаррязанов" tvg-name="VF Эльдар Рязанов" tvg-logo="" group-title="Кино",VF Эльдар Рязанов
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17012/index.m3u8
+#EXTINF:-1 tvg-id="vfуниверноваяобщага" tvg-name="VF Универ новая общага" tvg-logo="" group-title="Кино",VF Универ новая общага
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17013/index.m3u8
+#EXTINF:-1 tvg-id="vfходячиемертвецы" tvg-name="VF Ходячие мертвецы" tvg-logo="" group-title="Кино",VF Ходячие мертвецы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17014/index.m3u8
+#EXTINF:-1 tvg-id="vfреальныепацаны" tvg-name="VF Реальные пацаны" tvg-logo="" group-title="Кино",VF Реальные пацаны
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17015/index.m3u8
+#EXTINF:-1 tvg-id="vfдокторхаус" tvg-name="VF Доктор Хаус" tvg-logo="" group-title="Кино",VF Доктор Хаус
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17016/index.m3u8
+#EXTINF:-1 tvg-id="vfбезцензуры" tvg-name="VF Без цензуры" tvg-logo="" group-title="Кино",VF Без цензуры
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17017/index.m3u8
+#EXTINF:-1 tvg-id="vfгородок" tvg-name="VF Городок" tvg-logo="" group-title="Кино",VF Городок
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18097/index.m3u8
+#EXTINF:-1 tvg-id="vfcomedywoman" tvg-name="VF Comedy Woman" tvg-logo="" group-title="Кино",VF Comedy Woman
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18101/index.m3u8
+#EXTINF:-1 tvg-id="vfиграпрестолов" tvg-name="VF Игра престолов" tvg-logo="" group-title="Кино",VF Игра престолов
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18119/index.m3u8
+#EXTINF:-1 tvg-id="vfодесскаякиностудия" tvg-name="VF Одесская киностудия" tvg-logo="" group-title="Кино",VF Одесская киностудия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18120/index.m3u8
+#EXTINF:-1 tvg-id="vfленфильм" tvg-name="VF Ленфильм" tvg-logo="" group-title="Кино",VF Ленфильм
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18121/index.m3u8
+#EXTINF:-1 tvg-id="vfкиностудияимгорького" tvg-name="VF Киностудия им. Горького" tvg-logo="" group-title="Кино",VF Киностудия им. Горького
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18122/index.m3u8
+#EXTINF:-1 tvg-id="vfрижскаякиностудия" tvg-name="VF Рижская киностудия" tvg-logo="" group-title="Кино",VF Рижская киностудия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18123/index.m3u8
+#EXTINF:-1 tvg-id="vfсвердловскаякиностудия" tvg-name="VF Свердловская киностудия" tvg-logo="" group-title="Кино",VF Свердловская киностудия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18124/index.m3u8
+#EXTINF:-1 tvg-id="vfбеларусьфильм" tvg-name="VF Беларусьфильм" tvg-logo="" group-title="Кино",VF Беларусьфильм
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18125/index.m3u8
+#EXTINF:-1 tvg-id="vfnetflix" tvg-name="VF Netflix" tvg-logo="" group-title="Кино",VF Netflix
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19427/index.m3u8
+#EXTINF:-1 tvg-id="vfhbo" tvg-name="VF HBO" tvg-logo="" group-title="Кино",VF HBO
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19428/index.m3u8
+#EXTINF:-1 tvg-id="z!channel" tvg-name="Z!Channel" tvg-logo="" group-title="Кино",Z!Channel HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14134/index.m3u8
+#EXTINF:-1 tvg-id="z!comedy" tvg-name="Z!Comedy" tvg-logo="" group-title="Кино",Z!Comedy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14135/index.m3u8
+#EXTINF:-1 tvg-id="z!crime" tvg-name="Z!Crime" tvg-logo="" group-title="Кино",Z!Crime HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14136/index.m3u8
+#EXTINF:-1 tvg-id="z!horror" tvg-name="Z!Horror" tvg-logo="" group-title="Кино",Z!Horror HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14137/index.m3u8
+#EXTINF:-1 tvg-id="z!serial" tvg-name="Z!Serial" tvg-logo="" group-title="Кино",Z!Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15140/index.m3u8
+#EXTINF:-1 tvg-id="z!sitcom" tvg-name="Z!Sitcom" tvg-logo="" group-title="Кино",Z!Sitcom HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15141/index.m3u8
+#EXTINF:-1 tvg-id="z!smile" tvg-name="Z!Smile" tvg-logo="" group-title="Кино",Z!Smile HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15142/index.m3u8
+#EXTINF:-1 tvg-id="yossotvgrand" tvg-name="Yosso TV Grand" tvg-logo="" group-title="Кино",Yosso TV Grand
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14171/index.m3u8
+#EXTINF:-1 tvg-id="yossotvvhs" tvg-name="Yosso TV VHS" tvg-logo="" group-title="Кино",Yosso TV VHS
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14172/index.m3u8
+#EXTINF:-1 tvg-id="yossotvрусскиефильмы" tvg-name="Yosso TV Русские Фильмы" tvg-logo="" group-title="Кино",Yosso TV Русские Фильмы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14174/index.m3u8
+#EXTINF:-1 tvg-id="yossotvсоветскиефильмы" tvg-name="Yosso TV Советские Фильмы" tvg-logo="" group-title="Кино",Yosso TV Советские Фильмы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14175/index.m3u8
+#EXTINF:-1 tvg-id="yossotvnewкино" tvg-name="Yosso TV New Кино" tvg-logo="" group-title="Кино",Yosso TV New Кино
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14177/index.m3u8
+#EXTINF:-1 tvg-id="yossotvтрагичное" tvg-name="Yosso TV Трагичное" tvg-logo="" group-title="Кино",Yosso TV Трагичное
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14219/index.m3u8
+#EXTINF:-1 tvg-id="yossotvзабавное" tvg-name="Yosso TV Забавное" tvg-logo="" group-title="Кино",Yosso TV Забавное
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14234/index.m3u8
+#EXTINF:-1 tvg-id="yossotvковбойское" tvg-name="Yosso TV Ковбойское" tvg-logo="" group-title="Кино",Yosso TV Ковбойское
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14235/index.m3u8
+#EXTINF:-1 tvg-id="yossotvbest" tvg-name="Yosso TV Best" tvg-logo="" group-title="Кино",Yosso TV Best
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14236/index.m3u8
+#EXTINF:-1 tvg-id="yossotvadrenaline" tvg-name="Yosso TV Adrenaline" tvg-logo="" group-title="Кино",Yosso TV Adrenaline
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15105/index.m3u8
+#EXTINF:-1 tvg-id="yossotvthriller" tvg-name="Yosso TV Thriller" tvg-logo="" group-title="Кино",Yosso TV Thriller
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15168/index.m3u8
+#EXTINF:-1 tvg-id="yossotvoblivion" tvg-name="Yosso TV Oblivion" tvg-logo="" group-title="Кино",Yosso TV Oblivion
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15509/index.m3u8
+#EXTINF:-1 tvg-id="yossotvadventure" tvg-name="Yosso TV Adventure" tvg-logo="" group-title="Кино",Yosso TV Adventure
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15510/index.m3u8
+#EXTINF:-1 tvg-id="yossotv" tvg-name="Yosso TV" tvg-logo="" group-title="Кино",Yosso TV 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16153/index.m3u8
+#EXTINF:-1 tvg-id="yossotvмелодрама" tvg-name="Yosso TV Мелодрама" tvg-logo="" group-title="Кино",Yosso TV Мелодрама
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19434/index.m3u8
+#EXTINF:-1 tvg-id="yossotvсоветскиефильмы" tvg-name="Yosso TV Советские Фильмы" tvg-logo="" group-title="Кино",Yosso TV Советские Фильмы 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19435/index.m3u8
+#EXTINF:-1 tvg-id="yossotvnetflix" tvg-name="Yosso TV Netflix" tvg-logo="" group-title="Кино",Yosso TV Netflix
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20163/index.m3u8
+#EXTINF:-1 tvg-id="yossotvdisney" tvg-name="Yosso TV Disney" tvg-logo="" group-title="Кино",Yosso TV Disney
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20164/index.m3u8
+#EXTINF:-1 tvg-id="yossotvbest60fps" tvg-name="Yosso TV Best 60fps" tvg-logo="" group-title="Кино",Yosso TV Best 60fps
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20165/index.m3u8
+#EXTINF:-1 tvg-id="citruscomedy" tvg-name="Citrus Comedy" tvg-logo="" group-title="Кино",Citrus Comedy
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16151/index.m3u8
+#EXTINF:-1 tvg-id="citrusinquest" tvg-name="Citrus Inquest" tvg-logo="" group-title="Кино",Citrus Inquest
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16152/index.m3u8
+#EXTINF:-1 tvg-id="citrushistory" tvg-name="Citrus History" tvg-logo="" group-title="Кино",Citrus History
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18139/index.m3u8
+#EXTINF:-1 tvg-id="твоетв" tvg-name="Твое ТВ" tvg-logo="" group-title="Кино",Твое ТВ HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14229/index.m3u8
+#EXTINF:-1 tvg-id="libertydc" tvg-name="Liberty DC" tvg-logo="" group-title="Кино",Liberty DC FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15087/index.m3u8
+#EXTINF:-1 tvg-id="libertyужасы" tvg-name="Liberty Ужасы" tvg-logo="" group-title="Кино",Liberty Ужасы 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15088/index.m3u8
+#EXTINF:-1 tvg-id="libertyтриллеры" tvg-name="Liberty Триллеры" tvg-logo="" group-title="Кино",Liberty Триллеры 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15089/index.m3u8
+#EXTINF:-1 tvg-id="libertyмарвел" tvg-name="Liberty Марвел" tvg-logo="" group-title="Кино",Liberty Марвел FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15090/index.m3u8
+#EXTINF:-1 tvg-id="libertyкороткометражки" tvg-name="Liberty Короткометражки" tvg-logo="" group-title="Кино",Liberty Короткометражки FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15091/index.m3u8
+#EXTINF:-1 tvg-id="libertyмелодрамы" tvg-name="Liberty Мелодрамы" tvg-logo="" group-title="Кино",Liberty Мелодрамы FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15095/index.m3u8
+#EXTINF:-1 tvg-id="libertyбоевики" tvg-name="Liberty Боевики" tvg-logo="" group-title="Кино",Liberty Боевики FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15096/index.m3u8
+#EXTINF:-1 tvg-id="libertyкиномикс" tvg-name="Liberty Кино Микс" tvg-logo="" group-title="Кино",Liberty Кино Микс 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15110/index.m3u8
+#EXTINF:-1 tvg-id="libertyсимпсоны" tvg-name="Liberty Симпсоны" tvg-logo="" group-title="Кино",Liberty Симпсоны FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15111/index.m3u8
+#EXTINF:-1 tvg-id="libertyсваты" tvg-name="Liberty Сваты" tvg-logo="" group-title="Кино",Liberty Сваты FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15164/index.m3u8
+#EXTINF:-1 tvg-id="libertyюжныйпарк" tvg-name="Liberty Южный Парк" tvg-logo="" group-title="Кино",Liberty Южный Парк FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16053/index.m3u8
+#EXTINF:-1 tvg-id="libertyкомедии" tvg-name="Liberty Комедии" tvg-logo="" group-title="Кино",Liberty Комедии FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16054/index.m3u8
+#EXTINF:-1 tvg-id="libertyсериалы" tvg-name="Liberty Сериалы" tvg-logo="" group-title="Кино",Liberty Сериалы FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16055/index.m3u8
+#EXTINF:-1 tvg-id="libertyаниме" tvg-name="Liberty Аниме" tvg-logo="" group-title="Кино",Liberty Аниме FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17029/index.m3u8
+#EXTINF:-1 tvg-id="libertyкиноeng" tvg-name="Liberty Кино ENG" tvg-logo="" group-title="Кино",Liberty Кино ENG 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17060/index.m3u8
+#EXTINF:-1 tvg-id="libertyмультeng" tvg-name="Liberty Мульт ENG" tvg-logo="" group-title="Кино",Liberty Мульт ENG 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17061/index.m3u8
+#EXTINF:-1 tvg-id="libertyкиноukr" tvg-name="Liberty Кино UKR" tvg-logo="" group-title="Кино",Liberty Кино UKR 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18045/index.m3u8
+#EXTINF:-1 tvg-id="libertyрусфильм" tvg-name="Liberty РусФильм" tvg-logo="" group-title="Кино",Liberty РусФильм 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18046/index.m3u8
+#EXTINF:-1 tvg-id="libertyиндия" tvg-name="Liberty Индия" tvg-logo="" group-title="Кино",Liberty Индия 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18160/index.m3u8
+#EXTINF:-1 tvg-id="libertyкуб" tvg-name="Liberty Куб" tvg-logo="" group-title="Кино",Liberty Куб 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18161/index.m3u8
+#EXTINF:-1 tvg-id="libertyсемейный" tvg-name="Liberty Семейный" tvg-logo="" group-title="Кино",Liberty Семейный 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18178/index.m3u8
+#EXTINF:-1 tvg-id="libertyтуркфильм" tvg-name="Liberty Турк Фильм" tvg-logo="" group-title="Кино",Liberty Турк Фильм 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19303/index.m3u8
+#EXTINF:-1 tvg-id="libertyсказки" tvg-name="Liberty Сказки" tvg-logo="" group-title="Кино",Liberty Сказки FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19304/index.m3u8
+#EXTINF:-1 tvg-id="libertyмим" tvg-name="Liberty МиМ" tvg-logo="" group-title="Кино",Liberty МиМ FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19306/index.m3u8
+#EXTINF:-1 tvg-id="libertyсоюз" tvg-name="Liberty Союз" tvg-logo="" group-title="Кино",Liberty Союз 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19307/index.m3u8
+#EXTINF:-1 tvg-id="libertyлегенда" tvg-name="Liberty Легенда" tvg-logo="" group-title="Кино",Liberty Легенда 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19308/index.m3u8
+#EXTINF:-1 tvg-id="libertyнетфликс" tvg-name="Liberty Нетфликс" tvg-logo="" group-title="Кино",Liberty Нетфликс 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19402/index.m3u8
+#EXTINF:-1 tvg-id="libertyфантастика" tvg-name="Liberty Фантастика" tvg-logo="" group-title="Кино",Liberty Фантастика FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19403/index.m3u8
+#EXTINF:-1 tvg-id="cinemanскораяпомощь" tvg-name="CineMan Скорая Помощь" tvg-logo="" group-title="Кино",CineMan Скорая Помощь
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15100/index.m3u8
+#EXTINF:-1 tvg-id="cinemanсимпсоны" tvg-name="CineMan Симпсоны" tvg-logo="" group-title="Кино",CineMan Симпсоны
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15101/index.m3u8
+#EXTINF:-1 tvg-id="msprisons" tvg-name="MS Prisons" tvg-logo="" group-title="Кино",MS Prisons HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15137/index.m3u8
+#EXTINF:-1 tvg-id="mstoons" tvg-name="MS Toons" tvg-logo="" group-title="Кино",MS Toons HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15138/index.m3u8
+#EXTINF:-1 tvg-id="msmagic" tvg-name="MS Magic" tvg-logo="" group-title="Кино",MS Magic 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16143/index.m3u8
+#EXTINF:-1 tvg-id="msyoungblood" tvg-name="MS Young Blood" tvg-logo="" group-title="Кино",MS Young Blood HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16147/index.m3u8
+#EXTINF:-1 tvg-id="msanimated" tvg-name="MS Animated" tvg-logo="" group-title="Кино",MS Animated HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17024/index.m3u8
+#EXTINF:-1 tvg-id="citruscartoon" tvg-name="Citrus Cartoon" tvg-logo="" group-title="Кино",Citrus Cartoon
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16050/index.m3u8
+#EXTINF:-1 tvg-id="citrusmarvel" tvg-name="Citrus Marvel" tvg-logo="" group-title="Кино",Citrus Marvel
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/16051/index.m3u8
+#EXTINF:-1 tvg-id="freshcinema" tvg-name="Fresh Cinema" tvg-logo="" group-title="Кино",Fresh Cinema
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19287/index.m3u8
+#EXTINF:-1 tvg-id="freshkids" tvg-name="Fresh Kids" tvg-logo="" group-title="Кино",Fresh Kids
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19288/index.m3u8
+#EXTINF:-1 tvg-id="freshcomedy" tvg-name="Fresh Comedy" tvg-logo="" group-title="Кино",Fresh Comedy
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19289/index.m3u8
+#EXTINF:-1 tvg-id="freshpremiere" tvg-name="Fresh Premiere" tvg-logo="" group-title="Кино",Fresh Premiere
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19290/index.m3u8
+#EXTINF:-1 tvg-id="freshfamily" tvg-name="Fresh Family" tvg-logo="" group-title="Кино",Fresh Family
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19291/index.m3u8
+#EXTINF:-1 tvg-id="freshrating" tvg-name="Fresh Rating" tvg-logo="" group-title="Кино",Fresh Rating
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19292/index.m3u8
+#EXTINF:-1 tvg-id="freshvhs" tvg-name="Fresh VHS" tvg-logo="" group-title="Кино",Fresh VHS
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19293/index.m3u8
+#EXTINF:-1 tvg-id="freshfantastic" tvg-name="Fresh Fantastic" tvg-logo="" group-title="Кино",Fresh Fantastic
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19294/index.m3u8
+#EXTINF:-1 tvg-id="freshseries" tvg-name="Fresh Series" tvg-logo="" group-title="Кино",Fresh Series
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19295/index.m3u8
+#EXTINF:-1 tvg-id="freshhorror" tvg-name="Fresh Horror" tvg-logo="" group-title="Кино",Fresh Horror
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19296/index.m3u8
+#EXTINF:-1 tvg-id="freshadventure" tvg-name="Fresh Adventure" tvg-logo="" group-title="Кино",Fresh Adventure
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19297/index.m3u8
+#EXTINF:-1 tvg-id="freshromantic" tvg-name="Fresh Romantic" tvg-logo="" group-title="Кино",Fresh Romantic
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19298/index.m3u8
+#EXTINF:-1 tvg-id="freshrussian" tvg-name="Fresh Russian" tvg-logo="" group-title="Кино",Fresh Russian
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19299/index.m3u8
+#EXTINF:-1 tvg-id="freshthriller" tvg-name="Fresh Thriller" tvg-logo="" group-title="Кино",Fresh Thriller
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19300/index.m3u8
+#EXTINF:-1 tvg-id="freshsoviet" tvg-name="Fresh Soviet" tvg-logo="" group-title="Кино",Fresh Soviet
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19301/index.m3u8
+#EXTINF:-1 tvg-id="eyemedia" tvg-name="Eye Media" tvg-logo="" group-title="Кино",Eye Media HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17064/index.m3u8
+#EXTINF:-1 tvg-id="eyeoscar" tvg-name="Eye Oscar" tvg-logo="" group-title="Кино",Eye Oscar HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17065/index.m3u8
+#EXTINF:-1 tvg-id="eyefrozen" tvg-name="Eye Frozen" tvg-logo="" group-title="Кино",Eye Frozen HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17066/index.m3u8
+#EXTINF:-1 tvg-id="eyecriminal" tvg-name="Eye Criminal" tvg-logo="" group-title="Кино",Eye Criminal HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17067/index.m3u8
+#EXTINF:-1 tvg-id="eyemodern" tvg-name="Eye Modern" tvg-logo="" group-title="Кино",Eye Modern HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/17068/index.m3u8
+#EXTINF:-1 tvg-id="startair" tvg-name="Start Air" tvg-logo="" group-title="Кино",Start Air HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18036/index.m3u8
+#EXTINF:-1 tvg-id="magickarate" tvg-name="Magic Karate" tvg-logo="" group-title="Кино",Magic Karate HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18061/index.m3u8
+#EXTINF:-1 tvg-id="magicvhs" tvg-name="Magic VHS" tvg-logo="" group-title="Кино",Magic VHS HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18062/index.m3u8
+#EXTINF:-1 tvg-id="magiccomedy" tvg-name="Magic Comedy" tvg-logo="" group-title="Кино",Magic Comedy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18063/index.m3u8
+#EXTINF:-1 tvg-id="magicthriller" tvg-name="Magic Thriller" tvg-logo="" group-title="Кино",Magic Thriller HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18065/index.m3u8
+#EXTINF:-1 tvg-id="magicaction" tvg-name="Magic Action" tvg-logo="" group-title="Кино",Magic Action HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18066/index.m3u8
+#EXTINF:-1 tvg-id="magicgalaxy" tvg-name="Magic Galaxy" tvg-logo="" group-title="Кино",Magic Galaxy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18067/index.m3u8
+#EXTINF:-1 tvg-id="magichorror" tvg-name="Magic Horror" tvg-logo="" group-title="Кино",Magic Horror HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18068/index.m3u8
+#EXTINF:-1 tvg-id="magicfamily" tvg-name="Magic Family" tvg-logo="" group-title="Кино",Magic Family HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18170/index.m3u8
+#EXTINF:-1 tvg-id="magiclove" tvg-name="Magic Love" tvg-logo="" group-title="Кино",Magic Love HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18171/index.m3u8
+#EXTINF:-1 tvg-id="tvikselкино1" tvg-name="Tviksel Кино 1" tvg-logo="" group-title="Кино",Tviksel Кино 1 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18069/index.m3u8
+#EXTINF:-1 tvg-id="tvikselкино2" tvg-name="Tviksel Кино 2" tvg-logo="" group-title="Кино",Tviksel Кино 2 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18070/index.m3u8
+#EXTINF:-1 tvg-id="tvikselкино1international" tvg-name="Tviksel Кино 1 International" tvg-logo="" group-title="Кино",Tviksel Кино 1 International
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18071/index.m3u8
+#EXTINF:-1 tvg-id="tvikselвоенноекино" tvg-name="Tviksel Военное кино" tvg-logo="" group-title="Кино",Tviksel Военное кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18072/index.m3u8
+#EXTINF:-1 tvg-id="tvikselдетскоекино" tvg-name="Tviksel Детское кино" tvg-logo="" group-title="Кино",Tviksel Детское кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18073/index.m3u8
+#EXTINF:-1 tvg-id="tvikselдетскоекиноinternational" tvg-name="Tviksel Детское кино International" tvg-logo="" group-title="Кино",Tviksel Детское кино International
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18074/index.m3u8
+#EXTINF:-1 tvg-id="зал1(триколор)" tvg-name="Зал 1 (Триколор)" tvg-logo="" group-title="Кино",Зал 1 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18126/index.m3u8
+#EXTINF:-1 tvg-id="зал2(триколор)" tvg-name="Зал 2 (Триколор)" tvg-logo="" group-title="Кино",Зал 2 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18127/index.m3u8
+#EXTINF:-1 tvg-id="зал3(триколор)" tvg-name="Зал 3 (Триколор)" tvg-logo="" group-title="Кино",Зал 3 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18128/index.m3u8
+#EXTINF:-1 tvg-id="зал4(триколор)" tvg-name="Зал 4 (Триколор)" tvg-logo="" group-title="Кино",Зал 4 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18129/index.m3u8
+#EXTINF:-1 tvg-id="зал5(триколор)" tvg-name="Зал 5 (Триколор)" tvg-logo="" group-title="Кино",Зал 5 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18130/index.m3u8
+#EXTINF:-1 tvg-id="зал6(триколор)" tvg-name="Зал 6 (Триколор)" tvg-logo="" group-title="Кино",Зал 6 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18131/index.m3u8
+#EXTINF:-1 tvg-id="зал7(триколор)" tvg-name="Зал 7 (Триколор)" tvg-logo="" group-title="Кино",Зал 7 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18132/index.m3u8
+#EXTINF:-1 tvg-id="зал8(триколор)" tvg-name="Зал 8 (Триколор)" tvg-logo="" group-title="Кино",Зал 8 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18133/index.m3u8
+#EXTINF:-1 tvg-id="знаниетв" tvg-name="Знание ТВ" tvg-logo="" group-title="Кино",Знание ТВ
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18134/index.m3u8
+#EXTINF:-1 tvg-id="зал10(триколор)" tvg-name="Зал 10 (Триколор)" tvg-logo="" group-title="Кино",Зал 10 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18135/index.m3u8
+#EXTINF:-1 tvg-id="зал11(триколор)" tvg-name="Зал 11 (Триколор)" tvg-logo="" group-title="Кино",Зал 11 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18136/index.m3u8
+#EXTINF:-1 tvg-id="зал12(триколор)" tvg-name="Зал 12 (Триколор)" tvg-logo="" group-title="Кино",Зал 12 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/18137/index.m3u8
+#EXTINF:-1 tvg-id="киносерия" tvg-name="Киносерия" tvg-logo="" group-title="Кино",Киносерия HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19229/index.m3u8
+#EXTINF:-1 tvg-id="нашеновоекино" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Кино",Наше Новое Кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19231/index.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="" group-title="Кино",Cinema HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19233/index.m3u8
+#EXTINF:-1 tvg-id="boxfranchise" tvg-name="BOX Franchise" tvg-logo="" group-title="Кино",BOX Franchise HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19274/index.m3u8
+#EXTINF:-1 tvg-id="boxhybrid" tvg-name="BOX Hybrid" tvg-logo="" group-title="Кино",BOX Hybrid HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19275/index.m3u8
+#EXTINF:-1 tvg-id="boxanime" tvg-name="BOX Anime" tvg-logo="" group-title="Кино",BOX Anime HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19276/index.m3u8
+#EXTINF:-1 tvg-id="boxgangster" tvg-name="BOX Gangster" tvg-logo="" group-title="Кино",BOX Gangster HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19277/index.m3u8
+#EXTINF:-1 tvg-id="boxoscar" tvg-name="BOX Oscar" tvg-logo="" group-title="Кино",BOX Oscar HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19278/index.m3u8
+#EXTINF:-1 tvg-id="boxmemory" tvg-name="BOX Memory" tvg-logo="" group-title="Кино",BOX Memory HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19279/index.m3u8
+#EXTINF:-1 tvg-id="boxmserial" tvg-name="BOX M.Serial" tvg-logo="" group-title="Кино",BOX M.Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19280/index.m3u8
+#EXTINF:-1 tvg-id="boxserial" tvg-name="BOX Serial" tvg-logo="" group-title="Кино",BOX Serial HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19281/index.m3u8
+#EXTINF:-1 tvg-id="boxgame" tvg-name="BOX Game" tvg-logo="" group-title="Кино",BOX Game HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19284/index.m3u8
+#EXTINF:-1 tvg-id="boxspy" tvg-name="BOX Spy" tvg-logo="" group-title="Кино",BOX Spy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19285/index.m3u8
+#EXTINF:-1 tvg-id="boxtravel" tvg-name="BOX Travel" tvg-logo="" group-title="Кино",BOX Travel HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19418/index.m3u8
+#EXTINF:-1 tvg-id="boxwestern" tvg-name="BOX Western" tvg-logo="" group-title="Кино",BOX Western HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19419/index.m3u8
+#EXTINF:-1 tvg-id="boxzombie" tvg-name="BOX Zombie" tvg-logo="" group-title="Кино",BOX Zombie HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19420/index.m3u8
+#EXTINF:-1 tvg-id="boxcyber" tvg-name="BOX Cyber" tvg-logo="" group-title="Кино",BOX Cyber HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19421/index.m3u8
+#EXTINF:-1 tvg-id="pginsomnia" tvg-name="PG Insomnia" tvg-logo="" group-title="Кино",PG Insomnia HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19398/index.m3u8
+#EXTINF:-1 tvg-id="mytv" tvg-name="MYTV" tvg-logo="" group-title="Кино",MYTV
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19407/index.m3u8
+#EXTINF:-1 tvg-id="mytv2" tvg-name="MYTV 2" tvg-logo="" group-title="Кино",MYTV 2
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19408/index.m3u8
+#EXTINF:-1 tvg-id="mytv3" tvg-name="MYTV 3" tvg-logo="" group-title="Кино",MYTV 3
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19411/index.m3u8
+#EXTINF:-1 tvg-id="mytvhit" tvg-name="MYTV HIT" tvg-logo="" group-title="Кино",MYTV HIT
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19410/index.m3u8
+#EXTINF:-1 tvg-id="citruslive" tvg-name="Citrus Live" tvg-logo="" group-title="Кино",Citrus Live HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/19436/index.m3u8
+#EXTINF:-1 tvg-id="libertyпланктон" tvg-name="Liberty Планктон" tvg-logo="" group-title="Кино",Liberty Планктон FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20140/index.m3u8
+#EXTINF:-1 tvg-id="magicadventure" tvg-name="Magic Adventure" tvg-logo="" group-title="Кино",Magic Adventure HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20141/index.m3u8
+#EXTINF:-1 tvg-id="boxghost" tvg-name="BOX Ghost" tvg-logo="" group-title="Кино",BOX Ghost HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20154/index.m3u8
+#EXTINF:-1 tvg-id="boxstories" tvg-name="BOX Stories" tvg-logo="" group-title="Кино",BOX Stories HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20155/index.m3u8
+#EXTINF:-1 tvg-id="boxfantasy" tvg-name="BOX Fantasy" tvg-logo="" group-title="Кино",BOX Fantasy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20156/index.m3u8
+#EXTINF:-1 tvg-id="boxpremiere" tvg-name="BOX Premiere" tvg-logo="" group-title="Кино",BOX Premiere 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20157/index.m3u8
+#EXTINF:-1 tvg-id="boxremast" tvg-name="BOX Remast" tvg-logo="" group-title="Кино",BOX Remast 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20158/index.m3u8
+#EXTINF:-1 tvg-id="boxmayday" tvg-name="BOX Mayday" tvg-logo="" group-title="Кино",BOX Mayday HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20159/index.m3u8
+#EXTINF:-1 tvg-id="libertyxxвек" tvg-name="Liberty XX Век" tvg-logo="" group-title="Кино",Liberty XX Век 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20173/index.m3u8
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="" group-title="Кино",DetectiveJam HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20209/index.m3u8
+#EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam" tvg-logo="" group-title="Кино",FamilyJam HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20210/index.m3u8
+#EXTINF:-1 tvg-id="кионхит" tvg-name="Кион Хит" tvg-logo="" group-title="Кино",Кион Хит HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20211/index.m3u8
+#EXTINF:-1 tvg-id="eyefamily" tvg-name="Eye Family" tvg-logo="" group-title="Кино",Eye Family HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20216/index.m3u8
+#EXTINF:-1 tvg-id="eyehistory" tvg-name="Eye History" tvg-logo="" group-title="Кино",Eye History HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20217/index.m3u8
+#EXTINF:-1 tvg-id="eyewestern" tvg-name="Eye Western" tvg-logo="" group-title="Кино",Eye Western HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20218/index.m3u8
+#EXTINF:-1 tvg-id="eyedrive" tvg-name="Eye Drive" tvg-logo="" group-title="Кино",Eye Drive HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20219/index.m3u8
+#EXTINF:-1 tvg-id="eyecyber" tvg-name="Eye Cyber" tvg-logo="" group-title="Кино",Eye Cyber HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/20220/index.m3u8
+#EXTINF:-1 tvg-id="mmкинофестиваль" tvg-name="MM Кинофестиваль" tvg-logo="" group-title="Кино",MM Кинофестиваль HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31621/index.m3u8
+#EXTINF:-1 tvg-id="cinemanкриминальныесериалы" tvg-name="CineMan Криминальные Сериалы" tvg-logo="" group-title="Кино",CineMan Криминальные Сериалы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31626/index.m3u8
+#EXTINF:-1 tvg-id="cinemanкомедийныесериалы" tvg-name="CineMan Комедийные Сериалы" tvg-logo="" group-title="Кино",CineMan Комедийные Сериалы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31628/index.m3u8
+#EXTINF:-1 tvg-id="cinemanфитнес" tvg-name="CineMan Фитнес" tvg-logo="" group-title="Кино",CineMan Фитнес
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31629/index.m3u8
+#EXTINF:-1 tvg-id="magicrussian" tvg-name="Magic Russian" tvg-logo="" group-title="Кино",Magic Russian HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31630/index.m3u8
+#EXTINF:-1 tvg-id="veles60fps" tvg-name="VeleS 60fps" tvg-logo="" group-title="Кино",VeleS 60fps
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31637/index.m3u8
+#EXTINF:-1 tvg-id="velesкиноплёнка" tvg-name="VeleS Киноплёнка" tvg-logo="" group-title="Кино",VeleS Киноплёнка
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31638/index.m3u8
+#EXTINF:-1 tvg-id="velesкиносерия" tvg-name="VeleS Киносерия" tvg-logo="" group-title="Кино",VeleS Киносерия
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31640/index.m3u8
+#EXTINF:-1 tvg-id="velespremiere" tvg-name="VeleS Premiere" tvg-logo="" group-title="Кино",VeleS Premiere
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31641/index.m3u8
+#EXTINF:-1 tvg-id="velesстрашное" tvg-name="VeleS Страшное" tvg-logo="" group-title="Кино",VeleS Страшное
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31642/index.m3u8
+#EXTINF:-1 tvg-id="velesссср" tvg-name="VeleS СССР" tvg-logo="" group-title="Кино",VeleS СССР
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31643/index.m3u8
+#EXTINF:-1 tvg-id="velesmoviehits" tvg-name="VeleS Movie Hits" tvg-logo="" group-title="Кино",VeleS Movie Hits
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31644/index.m3u8
+#EXTINF:-1 tvg-id="boxapocalypse" tvg-name="BOX Apocalypse" tvg-logo="" group-title="Кино",BOX Apocalypse HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31655/index.m3u8
+#EXTINF:-1 tvg-id="boxremastplus" tvg-name="BOX Remast+" tvg-logo="" group-title="Кино",BOX Remast+ 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31656/index.m3u8
+#EXTINF:-1 tvg-id="boxserial" tvg-name="BOX Serial" tvg-logo="" group-title="Кино",BOX Serial 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31657/index.m3u8
+#EXTINF:-1 tvg-id="bcurussia90s" tvg-name="BCU Russia 90s" tvg-logo="" group-title="Кино",BCU Russia 90s HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31658/index.m3u8
+#EXTINF:-1 tvg-id="libertyмультukr" tvg-name="Liberty Мульт UKR" tvg-logo="" group-title="Кино",Liberty Мульт UKR FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31659/index.m3u8
+#EXTINF:-1 tvg-id="libertyкиноukr" tvg-name="Liberty Кино UKR" tvg-logo="" group-title="Кино",Liberty Кино UKR FHD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31660/index.m3u8
+#EXTINF:-1 tvg-id="libertyдримворкс" tvg-name="Liberty Дрим Воркс" tvg-logo="" group-title="Кино",Liberty Дрим Воркс 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31661/index.m3u8
+#EXTINF:-1 tvg-id="libertyкриминал" tvg-name="Liberty Криминал" tvg-logo="" group-title="Кино",Liberty Криминал 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31663/index.m3u8
+#EXTINF:-1 tvg-id="libertyаванпост" tvg-name="Liberty Аванпост" tvg-logo="" group-title="Кино",Liberty Аванпост 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31664/index.m3u8
+#EXTINF:-1 tvg-id="libertyсериалы" tvg-name="Liberty Сериалы" tvg-logo="" group-title="Кино",Liberty Сериалы 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31665/index.m3u8
+#EXTINF:-1 tvg-id="z!thriller" tvg-name="Z!Thriller" tvg-logo="" group-title="Кино",Z!Thriller HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31693/index.m3u8
+#EXTINF:-1 tvg-id="z!action" tvg-name="Z!Action" tvg-logo="" group-title="Кино",Z!Action HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31694/index.m3u8
+#EXTINF:-1 tvg-id="z!adventure" tvg-name="Z!Adventure" tvg-logo="" group-title="Кино",Z!Adventure HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31698/index.m3u8
+#EXTINF:-1 tvg-id="z!detective" tvg-name="Z!Detective" tvg-logo="" group-title="Кино",Z!Detective HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31699/index.m3u8
+#EXTINF:-1 tvg-id="z!drama" tvg-name="Z!Drama" tvg-logo="" group-title="Кино",Z!Drama HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31700/index.m3u8
+#EXTINF:-1 tvg-id="z!family" tvg-name="Z!Family" tvg-logo="" group-title="Кино",Z!Family HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31701/index.m3u8
+#EXTINF:-1 tvg-id="z!fantastic" tvg-name="Z!Fantastic" tvg-logo="" group-title="Кино",Z!Fantastic HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31702/index.m3u8
+#EXTINF:-1 tvg-id="z!fantasy" tvg-name="Z!Fantasy" tvg-logo="" group-title="Кино",Z!Fantasy HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31703/index.m3u8
+#EXTINF:-1 tvg-id="z!russian" tvg-name="Z!Russian" tvg-logo="" group-title="Кино",Z!Russian HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31704/index.m3u8
+#EXTINF:-1 tvg-id="z!fun" tvg-name="Z!Fun" tvg-logo="" group-title="Кино",Z!Fun HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31706/index.m3u8
+#EXTINF:-1 tvg-id="strahtvбайкиизсклепа" tvg-name="StrahTV Байки из склепа" tvg-logo="" group-title="Кино",StrahTV Байки из склепа
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31711/index.m3u8
+#EXTINF:-1 tvg-id="strahtvгромовы" tvg-name="StrahTV Громовы" tvg-logo="" group-title="Кино",StrahTV Громовы
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31712/index.m3u8
+#EXTINF:-1 tvg-id="strahtvколомбо" tvg-name="StrahTV Коломбо" tvg-logo="" group-title="Кино",StrahTV Коломбо
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31713/index.m3u8
+#EXTINF:-1 tvg-id="strahtvкинодром" tvg-name="StrahTV Кинодром" tvg-logo="" group-title="Кино",StrahTV Кинодром HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31714/index.m3u8
+#EXTINF:-1 tvg-id="strahtvоднаждывмилиции" tvg-name="StrahTV Однажды в милиции" tvg-logo="" group-title="Кино",StrahTV Однажды в милиции
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31715/index.m3u8
+#EXTINF:-1 tvg-id="strahtvольга" tvg-name="StrahTV Ольга" tvg-logo="" group-title="Кино",StrahTV Ольга HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31718/index.m3u8
+#EXTINF:-1 tvg-id="strahtvрепка" tvg-name="StrahTV Репка" tvg-logo="" group-title="Кино",StrahTV Репка HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31719/index.m3u8
+#EXTINF:-1 tvg-id="strahtvстрах20" tvg-name="StrahTV Страх 2.0" tvg-logo="" group-title="Кино",StrahTV Страх 2.0 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31720/index.m3u8
+#EXTINF:-1 tvg-id="strahtvфантастика20" tvg-name="StrahTV Фантастика 2.0" tvg-logo="" group-title="Кино",StrahTV Фантастика 2.0 HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31722/index.m3u8
+#EXTINF:-1 tvg-id="atreserieses" tvg-name="Atreseries ES" tvg-logo="" group-title="Кино",Atreseries HD ES
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31882/index.m3u8
+#EXTINF:-1 tvg-id="tcmes" tvg-name="TCM ES" tvg-logo="" group-title="Кино",TCM HD ES
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31883/index.m3u8
+#EXTINF:-1 tvg-id="киносезон" tvg-name="КиноСезон" tvg-logo="" group-title="Кино",КиноСезон HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31889/index.m3u8
+#EXTINF:-1 tvg-id="suspensoes" tvg-name="Suspenso ES" tvg-logo="" group-title="Кино",Suspenso HD ES
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31906/index.m3u8
+#EXTINF:-1 tvg-id="кинокульт" tvg-name="КиноКульт" tvg-logo="" group-title="Кино",КиноКульт HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31914/index.m3u8
+#EXTINF:-1 tvg-id="vhs-карусскоекино" tvg-name="VHS-ка Русское кино" tvg-logo="" group-title="Кино",VHS-ка Русское кино HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31925/index.m3u8
+#EXTINF:-1 tvg-id="госфильмофондмашинавремени" tvg-name="Госфильмофонд. Машина времени" tvg-logo="" group-title="Кино",Госфильмофонд. Машина времени HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31929/index.m3u8
+#EXTINF:-1 tvg-id="vhs-касериал" tvg-name="VHS-ка Сериал" tvg-logo="" group-title="Кино",VHS-ка Сериал HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/31931/index.m3u8
+#EXTINF:-1 tvg-id="veneratvсоветскаяклассика" tvg-name="Venera.TV Советская классика" tvg-logo="" group-title="Кино",Venera.TV Советская классика 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/30151/index.m3u8
+#EXTINF:-1 tvg-id="sagatv" tvg-name="Saga TV" tvg-logo="" group-title="Кино",Saga TV
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32103/index.m3u8
+#EXTINF:-1 tvg-id="зал17(триколор)" tvg-name="Зал 17 (Триколор)" tvg-logo="" group-title="Кино",Зал 17 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32104/index.m3u8
+#EXTINF:-1 tvg-id="зал17(триколор)" tvg-name="Зал 17 (Триколор)" tvg-logo="" group-title="Кино",Зал 17 (Триколор) orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32105/index.m3u8
+#EXTINF:-1 tvg-id="зал19(триколор)" tvg-name="Зал 19 (Триколор)" tvg-logo="" group-title="Кино",Зал 19 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32106/index.m3u8
+#EXTINF:-1 tvg-id="зал20(триколор)" tvg-name="Зал 20 (Триколор)" tvg-logo="" group-title="Кино",Зал 20 (Триколор)
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32107/index.m3u8
+#EXTINF:-1 tvg-id="4evertheaterua" tvg-name="4ever Theater UA" tvg-logo="" group-title="Кино",4ever Theater HD UA
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32108/index.m3u8
+#EXTINF:-1 tvg-id="кино" tvg-name="Кино" tvg-logo="" group-title="Кино",Кино UHD orig
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32109/index.m3u8
+#EXTINF:-1 tvg-id="filmboxplusone" tvg-name="FilmBox+ One" tvg-logo="" group-title="Кино",FilmBox+ One
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32110/index.m3u8
+#EXTINF:-1 tvg-id="filmboxplusfestival" tvg-name="FilmBox+ Festival" tvg-logo="" group-title="Кино",FilmBox+ Festival
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32111/index.m3u8
+#EXTINF:-1 tvg-id="bcumedia2r" tvg-name="BCU Media 2R" tvg-logo="" group-title="Кино",BCU Media 2 HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32220/index.m3u8
+#EXTINF:-1 tvg-id="bcumedia3r" tvg-name="BCU Media 3R" tvg-logo="" group-title="Кино",BCU Media 3 HDR
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32221/index.m3u8
+#EXTINF:-1 tvg-id="cinemanrelax" tvg-name="CineMan Relax" tvg-logo="" group-title="Кино",CineMan Relax 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32226/index.m3u8
+#EXTINF:-1 tvg-id="cinemanold" tvg-name="CineMan OLD" tvg-logo="" group-title="Кино",CineMan OLD 4K
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32227/index.m3u8
+#EXTINF:-1 tvg-id="cinemanaircrash" tvg-name="CineMan Air Crash" tvg-logo="" group-title="Кино",CineMan Air Crash HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32228/index.m3u8
+#EXTINF:-1 tvg-id="cinemanвоенныесериалы" tvg-name="CineMan Военные Сериалы" tvg-logo="" group-title="Кино",CineMan Военные Сериалы HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32230/index.m3u8
+#EXTINF:-1 tvg-id="hdmedia" tvg-name="HD Media" tvg-logo="" group-title="Кино",HD Media
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32237/index.m3u8
+#EXTINF:-1 tvg-id="rtдок" tvg-name="RT Док" tvg-logo="" group-title="Кино",RT Док HD
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/32242/index.m3u8
