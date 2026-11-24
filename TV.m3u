@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.one/epg.xml.gz" tvg-shift="0"
+#EXTM3U url-tvg="https://epg.one/epg.xml" tvg-shift="0"
 # Полная замена: ВСЕ каналы из раздела Кино (mylistbest) | 22.11.2026
 # Каналов: 680
 # Источник: mylistbest playlist
